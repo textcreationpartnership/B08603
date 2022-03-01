@@ -1,0 +1,1083 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Masora. A collection out of the learned master Joannes Buxtorfius's Commentarius Masorethicus. / By Clement Barksdale.</title>
+            <author>Buxtorf, Johann, 1564-1629.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08603</idno>
+            <idno type="OCLC"> 80922031</idno>
+            <idno type="STC">Wing B6348A</idno>
+            <idno type="STC">ESTC R221405</idno>
+            <idno type="EEBO-CITATION">80922031</idno>
+            <idno type="OCLC">ocm 80922031</idno>
+            <idno type="VID">191817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191817)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2890:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Masora. A collection out of the learned master Joannes Buxtorfius's Commentarius Masorethicus. / By Clement Barksdale.</title>
+                  <author>Buxtorf, Johann, 1564-1629.</author>
+                  <author>Barksdale, Clement, 1609-1687.</author>
+               </titleStmt>
+               <extent>[6], 64 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthias Thurston, and are to be sold at his shop next the St. Johns-head Tavern within Ludgate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains Hebrew type.</note>
+                  <note>Reproduction of original in the Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Criticism, Textual --  Early works to 1800.</term>
+               <term>Masorah --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191817:1"/>
+            <pb facs="tcp:191817:1"/>
+            <p> Maſora. A COLLECTION Out of the Learned Maſter JOANNES BUXTORFIUS<hi>'s Commentarius Maſorethicus.</hi>
+            </p>
+            <p>By <hi>CLEMENT BARKSDALE.</hi>
+            </p>
+            <q>
+               <l>Neque Omnia, neque Nihil.</l>
+               <l>Iota unum non peribit.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Matthias Thurſton,</hi> and are to be ſold at his Shop next the St. <hi>Johns-head</hi> Tavern within <hi>Ludgate.</hi> 1665.</p>
+            <pb facs="tcp:191817:2" rendition="simple:additions"/>
+         </div>
+         <div type="quotation">
+            <pb facs="tcp:191817:2"/>
+            <head>
+               <bibl>PETR<g ref="char:V">Ʋ</g>S C<g ref="char:V">Ʋ</g>NAE<g ref="char:V">Ʋ</g>S, <hi>Of the</hi> Hebrew <hi>COMMONWEALTH,</hi> Lib. 1. Cap. ult.</bibl>
+            </head>
+            <q>
+               <seg rend="decorInit">W</seg>Hat time the <hi>Chriſtians</hi> under<g ref="char:EOLhyphen"/>ſtood ſcarce Three words of <hi>He<g ref="char:EOLhyphen"/>brew,</hi> how eaſie had it been for the <hi>Jews</hi> to corrupt thoſe places which ſeemed to refute their Follies; but Pi<g ref="char:EOLhyphen"/>ety would not permit them; Religion forbad them to move or alter any thing in the Sacred Text: And truly when I look upon the unwearied diligence of the <hi>MASO<g ref="char:EOLhyphen"/>RITES, I</hi> am almost amazed: For all the parts of the <hi>Hebrew</hi> Bible, being accurately reviſed and compared, they ſigned with Impreſſed Notes. They obſerved not
+<pb facs="tcp:191817:3"/> only how many Verſes and Words, but alſo how many Letters every Book contained. Wherefore, that afterward, when Barbariſm oreſpread the World, not one point of that Di<g ref="char:EOLhyphen"/>vine writing periſhed, we owe <hi>(next under God)</hi> to them.</q>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:191817:3"/>
+            <head>The INDEX.</head>
+            <list>
+               <item>
+                  <hi>MASORA,</hi> whence ſo cal<g ref="char:EOLhyphen"/>led.</item>
+               <item>2. What are Traditions.</item>
+               <item>3. Definition of <hi>Maſora<g ref="char:punc">▪</g>
+                  </hi>
+               </item>
+               <item>4. The deligence of the <hi>Heb.</hi> Gods providence.</item>
+               <item>5. Who the Authors of <hi>Maſo<g ref="char:EOLhyphen"/>ra:</hi> two opinions.</item>
+               <item>6. <hi>Aben Ezra,</hi> and <hi>Elias Levita.</hi> 
+                  <note place="margin">I.</note>
+               </item>
+               <item>7. The School of <hi>Tiberias:</hi> the <hi>Hieruſalem Talmud. Rabbi Jehuda.</hi>
+               </item>
+               <item>8. The <hi>Babylon</hi>-Schools: their <hi>Talmud.</hi>
+               </item>
+               <item>9. <hi>Hillel Hannaſi,</hi> his new compute. <hi>Joſ. Scaliger.</hi>
+               </item>
+               <item>10. <hi>Tiberias</hi> decayed.</item>
+               <item>11. St. <hi>Jerom,</hi> his <hi>Hebrew</hi> Doctor.</item>
+               <item>12 The <hi>Maſorites</hi> of <hi>Tiberi<g ref="char:EOLhyphen"/>as</hi> not Authors.</item>
+               <item>13. The Authority of the <hi>Ba<g ref="char:EOLhyphen"/>bylon-Talmud.</hi>
+               </item>
+               <item>14. The <hi>Oral Kabala.</hi>
+               </item>
+               <item>15. <hi>Maſora</hi> more antient then the <hi>Talmud.</hi>
+               </item>
+               <item>16. 17. The points before the <hi>Maſoretic</hi> Notes.</item>
+               <item>18. Dages <hi>and</hi> Mappik.</item>
+               <item>19. The Accents noted.</item>
+               <item>20. <hi>Maſorites</hi> office.</item>
+               <item>21. <hi>Maſorites</hi> the Antients.</item>
+               <item>22. Vowels from one Prick.</item>
+               <item>23. Punctation before <hi>Tal<g ref="char:EOLhyphen"/>mud.</hi>
+               </item>
+               <item>24. Chaldee names of Points.</item>
+               <item>25. Need of Points.</item>
+               <item>26. Vowel Points not from the <hi>Tiberians;</hi> why.</item>
+               <item>27. The Septuagint.</item>
+               <item>28. The Great Synagogue. <note place="margin">II</note>
+               </item>
+               <item>29. <hi>Ezra, Nehemiah,</hi> &amp;c. High Prieſt, and <hi>Alex. M.</hi>
+               </item>
+               <item>30. Scribes. <hi>Ezra</hi> praiſed.</item>
+               <item>31. <hi>Ezra, Haggai, Malachi, Zorobabel,</hi> &amp;c.</item>
+               <item>32. <hi>Nehem.</hi> 8. 8. expound<g ref="char:EOLhyphen"/>ed. <hi>Tertul.</hi> and <hi>Chryſoſt.</hi>
+               </item>
+               <item>33. Beginning of <hi>Maſora.</hi> Diviſion of the Bible, <hi>Lu.</hi> 24. 44.</item>
+               <item>34. Subdiviſion into 22.</item>
+               <item>35. Diſtinction of Verſes: Fiction of the <hi>Kabaliſts:</hi> Septuagint.</item>
+               <item>36. Critical Learning: The firſt <hi>Maſorites.</hi>
+               </item>
+               <item>37. Reading of the words: Vowels and Accents:
+<pb facs="tcp:191817:4"/> Letters numbred.</item>
+               <item>38. Teſtimonies for the men of the Great Synagogue.</item>
+               <item>39. <hi>Elias Levita:</hi> Succeſſion of <hi>Maſorites. Ezra</hi> the firſt Author.</item>
+               <item>40. The Matter of the <hi>Ma<g ref="char:EOLhyphen"/>ſora.</hi> The number of the Verſes in <hi>Geneſis,</hi> &amp;c.</item>
+               <item>41. Notes upon the Verſes: <hi>Venice Edition of the Bi<g ref="char:EOLhyphen"/>ble.</hi>
+               </item>
+               <item>42. Notes upon the Words.</item>
+               <item>43. The writing and reading.</item>
+               <item>44. VVords written fully or defectively.</item>
+               <item>45. The place of VVords.</item>
+               <item>46. Structure of Verbs.</item>
+               <item>47. Ambiguous ſignification noted.</item>
+               <item>48. Vowels and Accents ob<g ref="char:EOLhyphen"/>ſerved.</item>
+               <item>49. The Letters noted in their Figure and Number.</item>
+               <item>50. Great Letters obſerved.</item>
+               <item>51. Little Letters obſerved.</item>
+               <item>52. The Letter <hi>Nun</hi> inver<g ref="char:EOLhyphen"/>ted.</item>
+               <item>53. Pricked words.</item>
+               <item>54. The Letters numbred: The middle Letter of the Law.</item>
+               <item>55. Raf. Saadia Gaon.</item>
+               <item>56. The Form of the <hi>Maſora:</hi> The Edition of <hi>Daniel Bomberg,</hi> and <hi>R. Jac. Ben Chajim.</hi>
+               </item>
+               <item>57. The Great and Little <hi>Maſora:</hi> Textual and Final.</item>
+               <item>58. The end of the <hi>Maſora:</hi> The hedge of the <hi>Law:</hi> Teſtimonies of <hi>Jews.</hi>
+               </item>
+               <item>59. Testimonies of <hi>Chriſti<g ref="char:EOLhyphen"/>ans.</hi>
+               </item>
+               <item>60. Concluſion.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:191817:4"/>
+            <head>MASORA.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">ה</seg>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Maſora, Maſoreth</hi> are Verbal Nouns derived from the Root <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>to deliver,</hi> and are here taken for a Doctrine or Knowledge, which one delivers and communicates to another, as it were from hand to hand: The correlative Verb is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>to receive, i.</hi> to perceive, know, and underſtand; for what is delivered by word of mouth, is received with the Ear, and ſo tranſmitted to the Mind: So the <hi>Hebrews</hi> have a ſaying; Moſes <hi>received the Law from</hi> Sinai, <hi>and delivered it to</hi> Joſhua, Joſhua <hi>to the Elders, the Elders to the Prophets, the Prophets delivered it to the men of the great Sy<g ref="char:EOLhyphen"/>nagogue.</hi> 
+                  <bibl>
+                     <hi>Cap.</hi> 1.</bibl>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <pb n="2" facs="tcp:191817:5"/>
+               <head>II.</head>
+               <p>In the <hi>New Teſtament</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>tradition</hi> or <hi>delivery,</hi> is uſually taken for a Doctrine or Inſtitution about certain Rites and Ceremo<g ref="char:EOLhyphen"/>nies; ſo the Jews had many Traditions in<g ref="char:EOLhyphen"/>vented and preſcribed by the Scribes and Doctors for the advancement of Piety, that is, to keep them by the obſerving of theſe in the better obſervation of Gods Commands; whence in Syriac <hi>Tradition</hi> is called <hi>Perfection,</hi> becauſe they imagined that the Law of God, comprehended in writing ſomwhat imper<g ref="char:EOLhyphen"/>fectly, was perfected and compleated by ſuch Inſtitutions; but Chriſt hath diſapproved them, ſaying, <hi>Ye have made void the Law of God by your Tradition,</hi> Mat. 15. 6. <bibl>
+                     <hi>Cap.</hi> 1.</bibl>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>
+                  <hi>Maſora,</hi> as we take it here by a Synecdo<g ref="char:EOLhyphen"/>che, ſignifies the Critical Doctrine about the Holy Hebrew Text, and may be thus defined: A Critical Doctrine concerning the Hebrew Text of Holy Scripture, ingeniouſly invented by the antient wiſe men of the <hi>Hebrews,</hi> wher<g ref="char:EOLhyphen"/>by the Verſes, Words, and Letters there<g ref="char:EOLhyphen"/>of were numbred, and all the variety of them
+<pb n="3" facs="tcp:191817:5"/> marked and ſhewed in their ſeveral places with the particular Verſes recited, that ſo the conſtant and genuine reading of the Text might be preſerved, and for ever ſecured from all chang and corruption: Hence is that ſaying of the Rabbins, <hi>The Maſora is the Hedge or Fence of the Law.</hi> 
+                  <bibl>
+                     <hi>Cap.</hi> 2.</bibl>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>In this Study, admirable was the diligence of the antient <hi>Hebrews,</hi> their Zeal in conſer<g ref="char:EOLhyphen"/>ving the Text of Gods Word moſt ardent, inimitable, and without example in any other Nation of the whole World was their Labor. No leſs to be admired is the providence of God, ſhining forth toward the Gentiles, who were to be called to the knowledge of him by the Scripture: For here, through Eaſt and Weſt, the Word of God is of one reading, the Books do all conſent with perfect Harmo<g ref="char:EOLhyphen"/>ny, a Happineſs granted to no other Nation, no other Books in the World: That moſt antient Writer of the Chriſtian Church <hi>Juſtin Martyr,</hi> juſtly aſcribs it to the ſingular care and providence of God, that the Jews ſo ſtudiouſly in their Synagogues kept ſafe and ſound the holy Writings for our uſe and benefit, <hi>Serm. ad Gentes:</hi> And St. <hi>Auſtin</hi>
+                  <pb n="4" facs="tcp:191817:6" rendition="simple:additions"/> ſtiles the Jews, <hi>our Servitors to carry our books for us,</hi> in <hi>Pſal.</hi> 41. <bibl>
+                     <hi>Cap.</hi> 2.</bibl>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>The Authors of <hi>Maſora</hi> are named by the <hi>Hebrews</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in our Schools the <hi>Maſoreths,</hi> from their handling the <hi>Maſora,</hi> or Critical Doctrine: Who they were in<g ref="char:EOLhyphen"/>deed, where or when they lived, is not eaſily to be determined. Two opinions there are eſpecially among the Rabbins; the one, that the Authors were the wiſe men of the City <hi>Tiberias;</hi> the other, that the <hi>Maſora</hi> was written by the men of the Great Syna<g ref="char:EOLhyphen"/>gogue, or the great Council called by the Prophet <hi>Ezra,</hi> 
+                  <bibl>
+                     <hi>Cap.</hi> 3.</bibl>
+               </p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>They of the firſt opinion do not only at<g ref="char:EOLhyphen"/>tribute the <hi>Maſora</hi> to the wiſe men of <hi>Tiberi<g ref="char:EOLhyphen"/>as,</hi> but will have them to be the firſt Inven<g ref="char:EOLhyphen"/>tors of the Points, Vowels, and Accents. Among theſe, the firſt is <hi>R. Aben Ezra</hi> (he flouriſhed in the year of Chriſt 1150,) who in his Grammer plainly ſaith, <hi>Thus was the Cu<g ref="char:EOLhyphen"/>ſtom of the wiſe men of</hi> Tiberias, <hi>for of them were the Authors of the</hi> Maſora; <hi>and from</hi>
+                  <pb n="5" facs="tcp:191817:6"/> 
+                  <hi>them have we received all the pointing;</hi> and of<g ref="char:EOLhyphen"/>ten doth he mention thoſe wiſe men in the ſame Book, and commends them ſeveral times for their skil in reading and genuine pronuntiation; his ſecond in this opinion is <hi>Elias Levita,</hi> a Jew of <hi>Germany,</hi> and a Fa<g ref="char:EOLhyphen"/>mous Grammarian in the Laſt age, and one that in the explication of the whole <hi>Maſora,</hi> and particularly in the curious handling of this part, got the praiſe from all the Rabbins of his people. In ſundry Prefaces to his <hi>Maſo<g ref="char:EOLhyphen"/>reth Hammaſoreth,</hi> his opinion touching the original of <hi>Maſora,</hi> and the Vowel points, is this in ſhort: 1. <hi>That there were innume<g ref="char:EOLhyphen"/>rable Authors of the</hi> Maſora <hi>in divers ages.</hi> 2. <hi>That the time of the beginning of them and the end is uncertain.</hi> 3. <hi>That the Hebrews of</hi> Tiberias <hi>firſt wrote the</hi> Maſora, <hi>and invented the points of Vowels and of Accents, after the</hi> Talmud <hi>was finiſhed,</hi> i. <hi>long after,</hi> 500. <hi>years ſince our Saviour Chriſt.</hi> 
+                  <bibl>
+                     <hi>Cap.</hi> 3.</bibl>
+               </p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>The City of <hi>Tiberias,</hi> which produced the <hi>Maſoreth,</hi> of all the Jews moſt expert in the Hebrew Tongue, was in the Land of <hi>Galilee,</hi> ſeated near the Lake of <hi>Henne-Caroth,</hi> of whoſe Riſe and Scituation, <hi>Joſephus</hi> that noble
+<pb n="6" facs="tcp:191817:7"/> and moſt antient Writer of the Jewiſh Af<g ref="char:EOLhyphen"/>fairs informs us, <hi>Antiq. lib.</hi> 18. <hi>c.</hi> 3. And when after the deſolation of <hi>Jeruſalem</hi> by the <hi>Roman</hi> Army, ſome Reliques of the Learned Jews eſcaped into <hi>Babylon,</hi> and ſome remain<g ref="char:EOLhyphen"/>ed in <hi>Paleſtin;</hi> theſe by a little and little in the more commodious places and cities, re<g ref="char:EOLhyphen"/>ſtored their Schools and Aſſemblies, and this <hi>Tiberias</hi> was one of thoſe Cities celebrated in the writing of the <hi>Hebrews,</hi> and adorned with ſome Names of wiſe and learned men, and enjoyed that honor till the year of Chriſt 230. after which time the Chronicles of the <hi>Hebrews</hi> relate nothing very memorable con<g ref="char:EOLhyphen"/>cerning Schools, and the Studies of good learning in <hi>Judea;</hi> for here <hi>Rabbi Jehuda,</hi> af<g ref="char:EOLhyphen"/>tet the publiſhing of the <hi>Jeruſalem Talmud,</hi> died in the ſame or the following year, and af<g ref="char:EOLhyphen"/>ter his death, the Studens in <hi>Judea</hi> were diſ<g ref="char:EOLhyphen"/>perſed, and the Schools tranſlated into <hi>Baby<g ref="char:EOLhyphen"/>lon.</hi> 
+                  <bibl>
+                     <hi>Cap.</hi> 4. <hi>&amp;</hi> 5.</bibl>
+               </p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>Thus the Schools of <hi>Judea</hi> as it were expi<g ref="char:EOLhyphen"/>ring with <hi>R. Jehuda</hi> the Saint, their Light and Life, and the principal Schollars being removed about the year 230. out of <hi>Palestin</hi> into <hi>Babylon,</hi> there did they renew their
+<pb n="7" facs="tcp:191817:7"/> Studies with great Fervor; chiefly did the Profeſſion of the Jewiſh Law flouriſh, com<g ref="char:EOLhyphen"/>prehended in the Book <hi>Miſchna,</hi> their <hi>Corpus Juris</hi> as it were: This was the Subject of thei Lectures and Diſputations, ſo that after<g ref="char:EOLhyphen"/>ward, in the year after the deſtruction of the City 436. as <hi>Elias</hi> puts it, that is of Chriſt 506, came forth the <hi>Babylonian Talmund</hi> di<g ref="char:EOLhyphen"/>ſtinct into ſix principal parts, and Sixty three Books, by which even until this day, the whole Nation of the Jews are governed. In the year of Chriſt 1037, then the <hi>Babylonian</hi> Schools were altogether extinguiſhed, the wiſe Maſters vaniſhed thence, and fixed them<g ref="char:EOLhyphen"/>ſelves in another Sphear, in <hi>Spain</hi> and other parts of <hi>Europe,</hi> as <hi>R. Abraham</hi> and other Writers teſtifie. <bibl>
+                     <hi>Cap.</hi> 6.</bibl>
+               </p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>It ſeems yet that all Learning did not die in <hi>Paleſtin</hi> with <hi>Rabbi Jehuda</hi> the Saint; for though the Chronicles give us nothing me<g ref="char:EOLhyphen"/>morable after him, yet the Hebrew Hiſtory makes mention of ſome Doctors of Schools in the Land of Iſrael, as may be ſeen in <hi>Ju<g ref="char:EOLhyphen"/>chaſin, fol.</hi> 106. In the year of Chriſt 340. <hi>Hillel Hannaſi</hi> was famous among the Jews, both a Philoſopher and excellent Aſtrono<g ref="char:EOLhyphen"/>mer.
+<pb n="8" facs="tcp:191817:8"/> ſo that he made a new Compute: and <hi>Joſ Scaliger</hi> in his Book of <hi>De Emendatione Temp.</hi> p. 544. ſaith, <hi>The new Compute was the worke of the Masters of</hi> Tyberias. We read of none but this <hi>Hillel</hi> that reformed the <hi>Kalender:</hi> therefore by the Maſters of <hi>Tybe<g ref="char:EOLhyphen"/>rias</hi> we muſt underſtand <hi>Hillel:</hi> the rather, becauſe all the Jews unto this day do follow his Computation, and will follow it till the time of their Deliverer whom they expect, as we ſee in <hi>Inchaſin</hi> fol. 90. According to <hi>Sca<g ref="char:EOLhyphen"/>liger</hi> then, this <hi>Hillel</hi> lived in <hi>Tyberias,</hi> and to that time <hi>Tyberias</hi> was not decayed. <bibl>
+                     <hi>Cap.</hi> 7.</bibl>
+               </p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>That ſomething of the Schools in <hi>Paleſtin</hi> remained till this time, appeareth by <hi>Schal<g ref="char:EOLhyphen"/>ſchelet</hi> fol. 34. <hi>He</hi> (R. Jehuda Neſia) <hi>was the father of</hi> Rabbi Hillel <hi>the Prince, who was promoted into a Maſter in the Land of</hi> Iſrael, <hi>and the laſt of the promoted, as may be ſeen in the</hi> Talmudical Book <hi>De Idololatria.</hi> And in <hi>Tze<g ref="char:EOLhyphen"/>mach David,</hi> where is mention of this <hi>Hillel</hi> fol. 47. <hi>The promoted in the Jews of</hi> Iſrael <hi>cea<g ref="char:EOLhyphen"/>ſed in him.</hi> Now if Scholaſtical promotion here ceaſed, it is very probable that profeſſi<g ref="char:EOLhyphen"/>ons and publick exerciſes ceaſed alſo; being thoſe Dignities are the rewards of an excel<g ref="char:EOLhyphen"/>lent
+<pb n="9" facs="tcp:191817:8"/> learning, ordained for the conſervation and propagation of ſtudies; which is made more probable, in that the Chronicles of the Hebrews relate nothing at all, after this <hi>Hil<g ref="char:EOLhyphen"/>lel,</hi> touching the Schools or Wiſe men of <hi>Pa<g ref="char:EOLhyphen"/>leſtin,</hi> but purſue the Schools of <hi>Babylon</hi> to the laſt. <bibl>
+                     <hi>Cap.</hi> 7.</bibl>
+               </p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>Yet St. <hi>Hierom,</hi> a very antient Writer of the Chriſtian Church, carries us a little farther. For he, when he tranſlated the Hebrew Bible into Latin, procured a Learned Jew from <hi>Ty<g ref="char:EOLhyphen"/>berias,</hi> whoſe help he uſed in the interpreta<g ref="char:EOLhyphen"/>tion of the Book of Chronicles; <hi>a certain Doctor of the Law, admir'd among the Hebrews, by whoſe aſſiſtance he was encouraged to go through with his tranſlation,</hi> as himſelf tell us in the preface to that Book. Now St. <hi>Hierom,</hi> as our Chronologers ſay, ended his life at <hi>Bethelem</hi> in the year of Chriſt 420, or 422. I ſuppoſe he might be upon his interpretation about the year 400. being he ſpent ſome years about it, and liv'd ſome years after it was finiſhed, to hear the cenſures of men for it or againſt it, and to make his defence at ſun<g ref="char:EOLhyphen"/>dry times. <bibl>
+                     <hi>Cap.</hi> 7.</bibl>
+               </p>
+            </div>
+            <div n="12" type="part">
+               <pb n="10" facs="tcp:191817:9"/>
+               <head>XII.</head>
+               <p>Thus we have ſearched into the ſtudies of theſe <hi>Tyberians,</hi> and followed them to the year 400. drawn on by ſome hope of finding the moſt wiſe College of <hi>Maſoreths</hi> at <hi>Tyberi<g ref="char:EOLhyphen"/>as.</hi> We have found indeed, that learning, af<g ref="char:EOLhyphen"/>ter the waſte of <hi>Jeruſalem,</hi> was a long time conſerved in <hi>Paleſtin,</hi> and eſpecially in the City of <hi>Tyberias;</hi> but, being the Hebrew Hi<g ref="char:EOLhyphen"/>ſtory purſues the courſe of ſtudies and the ſe<g ref="char:EOLhyphen"/>veral generations of wiſe men to a thouſand years in <hi>Babylon,</hi> and leaves off in <hi>Palestin</hi> or the Land of <hi>Iſrael</hi> about the year 340, ending with <hi>Hillel</hi> the Prince; it is no way credible, that after 500, or about 600. years from Chriſt, or more, ſo many mighty Scholars were extant at <hi>Tyberias,</hi> who above all the Jews were moſt exerciſed in the Reading of holy Scriptures, and were the authors of an invention, ſo new, ſo admired, of ſuch con<g ref="char:EOLhyphen"/>cernment to the moſt ſober and moſt weighty handling of the ſacred Letters, and delivered the ſame, without any witneſſe, without a<g ref="char:EOLhyphen"/>ny hiſtory, without any memory of Books; delivered it, I ſay, as a divine Oracle to be accepted by all the Nation of the Jews, yea by the whole world, whereſoever the Word of
+<pb n="11" facs="tcp:191817:9"/> God was communicated or to be communica<g ref="char:EOLhyphen"/>ted. <bibl>
+                     <hi>Cap.</hi> 7.</bibl>
+               </p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>Moreover, being the Elaboration, Con<g ref="char:EOLhyphen"/>ſcription, authors, and whatſoever pertains to the hiſtory of theſe books of both the <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> and <hi>Babylon-Talmud,</hi> was obſerved and noted with great care by the He<g ref="char:EOLhyphen"/>brews, how was it poſſible they ſhould con<g ref="char:EOLhyphen"/>ceal that which concerned the genuine, au<g ref="char:EOLhyphen"/>thentick and everlaſting reading of the ſacred Scripture. Again being the moſt vaunting and ſelf conceited Jews of <hi>Babylon,</hi> dwelling in a moſt flouriſhing Empire, by the authority and celebrity of their Doctrin, quickly obſcu<g ref="char:EOLhyphen"/>red &amp; at length wholly extinguiſhed, the Jew<g ref="char:EOLhyphen"/>iſh Maſters and their Schools left among the ruines and rubbiſh of poor <hi>Paleſtin,</hi> how can we imagine, that after ſo many ages, in ſuch vigour and pride of their ſtudies at <hi>Babylon,</hi> they would have given up the eternal praiſe and glory of this Critical ſtudy about holy Scripture, and permitted theſe <hi>Tyberians</hi> a<g ref="char:EOLhyphen"/>lone to enjoy it? Further, being the <hi>Babylo<g ref="char:EOLhyphen"/>an</hi> Jews overcame, darkned and brought almoſt to nothing the <hi>Jeruſalem-Talmud</hi> by their <hi>Babylonian-Talmud,</hi> and obtained ſo
+<pb n="10" facs="tcp:191817:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:191817:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:191817:11"/> much authority to theirs, that thereby the whole Jewiſh Nation under heaven muſt be for ever ruled, as it is this very day, how could it be that they have not alſo procured to themſelves the authority, credit and renown of this Maſoretical Learning! <bibl>
+                     <hi>Cap.</hi> 7.</bibl>
+               </p>
+            </div>
+            <div n="14" type="part">
+               <head>XIV.</head>
+               <p>Further yet, if the <hi>Tyberian</hi> Jews after the <hi>Babylon Talmud</hi> ſtudies flouriſhing a thou<g ref="char:EOLhyphen"/>ſand years at <hi>Babylon,</hi> were the authors of the <hi>Maſora</hi> and the points of the ſacred Read<g ref="char:EOLhyphen"/>ing, how were they able to do ſuch a work without the knowledge of the <hi>Babylonians,</hi> with whom all the Jewiſh learning was in its height! how could they affect it, without their conſent and common approbation? Sure<g ref="char:EOLhyphen"/>ly, that Reading which was tyed to the exter<g ref="char:EOLhyphen"/>nal figures of vowels, and confirmed by <hi>Ma<g ref="char:EOLhyphen"/>ſoretick</hi> notes, required the teſtimony and approbation of all the Jewiſh Congregation to ſhew its conformity and agreement with the old <hi>Moſaick</hi> and prophetical authentick Reading, in all and every one of the letters and vowels, even to the leaſt prick. But of this either communication of Counſel or ap<g ref="char:EOLhyphen"/>probation of the enterpriſe, there is not ex<g ref="char:EOLhyphen"/>tant
+<pb n="13" facs="tcp:191817:11"/> one tittle in all the hiſtory of the Jews. No queſtion, if the firſt writers after the <hi>Ba<g ref="char:EOLhyphen"/>bylon Talmud</hi> had wholly been ſilent, yet the <hi>oral Kabala</hi> would never ſo have ſuppreſſed it, or withdrawn it from poſterity, but that ſome time or other it would have been diſco<g ref="char:EOLhyphen"/>vered by ſome body. Laſtly, by the con<g ref="char:EOLhyphen"/>feſſion of <hi>Elias</hi> himſelf, the Authors of the <hi>Maſora</hi> were in divers generations almoſt in<g ref="char:EOLhyphen"/>numerable, their beginning and end uncer<g ref="char:EOLhyphen"/>tain; how then can the <hi>Tyberians</hi> alone be ſaid to be the Authors? how is the beginning thereof aſcribed to the time after the <hi>Babylon-Talmud?</hi> 
+                  <bibl>
+                     <hi>Cap.</hi> 7.</bibl>
+               </p>
+            </div>
+            <div n="15" type="part">
+               <head>XV.</head>
+               <p>
+                  <hi>Aben Eſra</hi> (as above) ſaid, that the <hi>Ma<g ref="char:EOLhyphen"/>ſora</hi> and punctation proceeded from the Wiſe men of <hi>Tyberias: Elias Levita</hi> defined the circumſtance of time, and ſaid this came to paſſe, and the <hi>Maſora</hi> was written by them after the <hi>Talmud.</hi> But if both the name it ſelf and the things contained in the <hi>Maſora,</hi> as are the diſtinction of the Text into verſes, the noting of words according to their divers writing and reading, and the obſervation of the ſame words written fully or defectively, the quality of letters, and the dinumeration of
+<pb n="14" facs="tcp:191817:12"/> all the words, and verſes be mentioned in the <hi>Talmud:</hi> if alſo the <hi>Talmud</hi> ſometimes deter<g ref="char:EOLhyphen"/>mines or diſputes againſt the <hi>Maſora:</hi> then it follows, that the uſe and knowledge of the <hi>Maſora,</hi> in the greateſt part, was before the <hi>Talmud,</hi> and conſequently the ſentence of <hi>Elias</hi> cannot hold. And theſe particulars are declared. <bibl>
+                     <hi>Cap.</hi> 8.</bibl>
+               </p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI.</head>
+               <p>
+                  <hi>Elias</hi> ſaith, the <hi>Tyberians</hi> invented the art of punctation, and wrote the <hi>Maſora,</hi> whence they were called <hi>Maſoreths.</hi> But we may ar<g ref="char:EOLhyphen"/>gue from the <hi>Maſoretick</hi> notes themſelves, that the <hi>Maſora</hi> now extant, and the points, had not the ſame Authors. For example, <hi>Gen.</hi> 16. 13. it is written <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and verſe 15. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, where the Gloſſe of the <hi>Maſoreths, every</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>is with</hi> Kametz (the little, <hi>i. tzere) excepting ſix with</hi> Saegol. If the Authors of the Punctation and <hi>Maſora</hi> be the ſame, what reaſon had they to point ſix only of ſo many hundred, againſt the com<g ref="char:EOLhyphen"/>mon form? Why are thoſe ſix here alledg<g ref="char:EOLhyphen"/>ed in the <hi>Maſora</hi> ſo pointed, and no other? why have they diſcovered the irregularity themſelves by adding a note? ſurely, they were not the ſame men who made the Puncta<g ref="char:EOLhyphen"/>tion
+<pb n="15" facs="tcp:191817:12"/> and the <hi>Maſora;</hi> but the <hi>Maſoreths</hi> who reviſed the Forms of words, and found it ſo in the Copies pointed formerly, did therefore ſpecifie this Form; for they did not give themſelves this right, to change the leaſt prick in the Sacred Text, nor would permit that Licenſe to any, becauſe the Authority of Holy Scripture, ought to be inviolable, whoſe Form being Authentick and Divine, and ſo acknowledged by them, no boldneſs of man could alter without extream Impiety. They put a Note therefore to theſe ſix, that even in the leaſt the Text of Scripture might ever<g ref="char:EOLhyphen"/>more remain Inviolate, the only Scope of the whole <hi>Maſora.</hi> 
+                  <bibl>
+                     <hi>Cap.</hi> 9.</bibl>
+               </p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII.</head>
+               <p>Another example hereof, <hi>Gen.</hi> 19. 2. It is written <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; the <hi>Maſorites, every</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>of the ſignification of</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>is with Kametz</hi> (the little <hi>i. tzere) except this one.</hi> Wherefore in ſo many places have they printed this word always alike, this one place excepted? Wherfore have they, if themſelves were Authors of this Pun<g ref="char:EOLhyphen"/>ctation, ſhewed their Novelty by their Gloſs? Why the <hi>Maſoreths</hi> ſeeing this word in their Copies printed ſo in this place formerly by o<g ref="char:EOLhyphen"/>thers, added their note that none might alter it,
+<pb n="16" facs="tcp:191817:13"/> which every one might moſt eaſily have done according to Grammer. Many more exam<g ref="char:EOLhyphen"/>ples are ſet down. <bibl>
+                     <hi>Cap.</hi> 9.</bibl>
+               </p>
+            </div>
+            <div n="18" type="part">
+               <head>XVIII.</head>
+               <p>As of the Vowel-points, ſo alſo the incon<g ref="char:EOLhyphen"/>ſtant uſe of the Points, Dages, and Mappik, is obſerved and noted by the <hi>Maſoreths,</hi> whence it may very probably be concluded that the <hi>Maſoreths,</hi> or the Authors of the written <hi>Maſora,</hi> were not withall the Inventors of theſe two points, and then wrote a <hi>Maſora</hi> of them, but judged of their Inconſtancy in the Books formerly pointed, and added their Maſoretical Notes, that they founded it thus and thus in their Books; nor was it law<g ref="char:EOLhyphen"/>full for any man to amend the leaſt point in Holy Writ, leaſt in time it ſhould by Degrees degenerate from a Divine to a Humane ſenſe. For the boldneſs of man, hardly contains its ſelf within any bounds. The Rule is, that the four Guttural Letters admit not Dages — yet the <hi>Maſoreths</hi> noted the Letter <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to be dageſſed four times, for ſo they found it in their Books; Mappik hath a neceſſary uſe, yet the <hi>Maſoreths</hi> have obſerved and noted the omiſſion of it in <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> thrice, once in the Law, once in the Prophets, once in the
+<pb n="17" facs="tcp:191817:13"/> Hagiographa, for the ſame reaſon. <bibl>
+                     <hi>Cap.</hi> 9.</bibl>
+               </p>
+            </div>
+            <div n="19" type="part">
+               <head>XIX.</head>
+               <p>Alſo from the divers uſe of the Accents and the Notes upon them, it appears that the In<g ref="char:EOLhyphen"/>ventors of the Accents, and the Authors of the <hi>Maſora,</hi> were not the ſame perſons; but the <hi>Maſoreths,</hi> as they ſaw the uſe of the Accents in the Books afore pointed, ſo wrote the <hi>Maſora</hi> of them, <hi>Gen.</hi> 30. 19. upon <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the Sixth Son,</hi> the <hi>Maſoreths</hi> note, <hi>every Ben before Makkaph, hath Pathach</hi> (the little <hi>i. Saegol) except four;</hi> the other three are extant, 1 <hi>Sam.</hi> 22. 20. 2 <hi>Sam.</hi> 9. 12. <hi>Ezek.</hi> 18. 20. Again <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> with an Accent hath always <hi>Tzere,</hi> except ſix, which with an Accent have <hi>Saegol,</hi> juſt as if they were be<g ref="char:EOLhyphen"/>fore <hi>Makkaph:</hi> The places are cited in the <hi>Maſora; Pſal.</hi> 27. 4. is written <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the <hi>Ma<g ref="char:EOLhyphen"/>ſora. It is not found elſewhere</hi> with <hi>Pathach</hi> and <hi>Athnach.</hi> If theſe <hi>Maſoreths</hi> were alſo the Printers, why did they not point it as elſe<g ref="char:EOLhyphen"/>where <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Pſal.</hi> 104. 34. What they found in their Books, that they noted. <bibl>
+                     <hi>Cap.</hi> 9.</bibl>
+               </p>
+            </div>
+            <div n="20" type="part">
+               <pb n="18" facs="tcp:191817:14"/>
+               <head>XX.</head>
+               <p>There are infinite examples of the like kind, and the whole <hi>Maſora</hi> ſhews that the <hi>Maſo<g ref="char:EOLhyphen"/>reths</hi> were not the Authors of the Vowels and Accents, but only noted what was before invented; for otherwiſe why ſhould they bring in ſo many Anomalies to perplex the Reader, when they might eaſily have kept the Analogy of the Tongue? but their office only was, to note the Form of the ſacred Text in the Verſes, Words, and Letters, exactly, as they had it in their Copies, and judged it to be Authentick, to the end it might remain to all Poſterity uncorrupted and un<g ref="char:EOLhyphen"/>changed; or if any diverſity ſhould happen by miſtake or negligence of Tranſcribers, it might by thoſe Notes be corrected and re<g ref="char:EOLhyphen"/>ſtored. <bibl>
+                     <hi>Cap.</hi> 9. <hi>p.</hi> 72.</bibl>
+               </p>
+            </div>
+            <div n="21" type="part">
+               <head>XXI.</head>
+               <p>Neither is it probable that the Inventors of the Points, and the Authors of the <hi>Ma<g ref="char:EOLhyphen"/>ſora,</hi> lived at the ſame time; for then might they have enquired of them the reaſon of the more notable Anonymies and Diverſities, and ſet it down in writing, that ſo Poſterity
+<pb n="19" facs="tcp:191817:14"/> might not have been perplexed with the com<g ref="char:EOLhyphen"/>mon Accidents of Grammer, in a Language otherwiſe plain. But ſeeing we have great evidence that the principal parts of the <hi>Ma<g ref="char:EOLhyphen"/>ſora,</hi> and conſequently the firſt <hi>Maſoreths</hi> were before the Jewiſh <hi>Talmud,</hi> and that a long time (for they are by the <hi>Talmudiſts</hi> called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the Antients,</hi> we may conclude that this part alſo of the <hi>Maſora</hi> touching the words arrayed with Vowel-points, and Ac<g ref="char:EOLhyphen"/>cents, was compoſed by thoſe Antiens and their Succeſſors before the <hi>Talmud,</hi> and not by the <hi>Tyberians</hi> many ages after, when there was neither the ſame vigor of Studies, nor the ſame Felicity of wits, nor ſo great con<g ref="char:EOLhyphen"/>venience and frequency of Schools, all things being diſturbed by Wars and cruel Perſecuti<g ref="char:EOLhyphen"/>ons. <bibl>
+                     <hi>Cap.</hi> 9. <hi>p.</hi> 73.</bibl>
+               </p>
+            </div>
+            <div n="22" type="part">
+               <head>XXII.</head>
+               <p>The Vowel points ſeem to be deduced from one ſingle prick. A prick below the Letter is <hi>Chireck;</hi> in the midſt <hi>Schurck;</hi> above, <hi>Cholem;</hi> being doubled below the Letter, and placed ſidewiſe, it is <hi>Tzere,</hi> and by confluence <hi>Pathach;</hi> being placed per<g ref="char:EOLhyphen"/>pendicularly, one above the other, <hi>Sheva;</hi> being tripled in the Form of a Triangle,
+<pb n="20" facs="tcp:191817:15"/> 
+                  <hi>Saegol,</hi> and by confluence <hi>Kamets,</hi> &amp;c. <bibl>
+                     <hi>Cap.</hi> 9.</bibl>
+               </p>
+            </div>
+            <div n="23" type="part">
+               <head>XXIII.</head>
+               <p>In the <hi>Talmudical</hi> Book <hi>Nedarim, fol.</hi> 37. the Doctors diſpute whether it be lawful to teach the Law for a Reward? Some affirm, others deny, others diſtinguiſh. Some ſaid <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>a Reward of obſervation,</hi> and in<g ref="char:EOLhyphen"/>ſpection of Children, that they may keep home, repeat their Leſſons, not run about, not be wanton, is lawfully received: Ano<g ref="char:EOLhyphen"/>ther, <hi>R. Jochanan</hi> ſaid, It is alſo lawfull to take reward <hi>for teaching the pauſes of the Ac<g ref="char:EOLhyphen"/>cents.</hi> The Gloſs of <hi>R. Solomon, for teach<g ref="char:EOLhyphen"/>ing the punctation and the Accents:</hi> But how could they teach theſe, if indeed no Puncta<g ref="char:EOLhyphen"/>tion was then extant? <bibl>
+                     <hi>Cap.</hi> 9.</bibl>
+               </p>
+            </div>
+            <div n="24" type="part">
+               <head>XXIV.</head>
+               <p>That the Points came from Mount <hi>Sinai,</hi> and were given to the people by <hi>Moſes,</hi> not a few of the <hi>Rabbins,</hi> and thoſe of no vulgar Authority, have determined; that the names of the points which are now uſed, and are partly mentioned in the <hi>Maſora,</hi> were alſo given by <hi>Moſes</hi> from the Mount, they do
+<pb n="21" facs="tcp:191817:15"/> not affirm; but moſt of the <hi>Rabbins</hi> ſay, theſe names had their beginning from the Men of the great Synagogue, who had good Skill in both Tongues, the Chaldee and the He<g ref="char:EOLhyphen"/>brew. And the Jews of the ſecond Temple ſpake <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the Chaldee Language or the Syriac; very many words alſo and names came new with them out of <hi>Babylon.</hi> Its no wonder then, that the men of the great Sy<g ref="char:EOLhyphen"/>nagogue made uſe of the Chaldee in the tra<g ref="char:EOLhyphen"/>dition or delivery of the Points and the <hi>Ma<g ref="char:EOLhyphen"/>ſora.</hi> Wherhfore what <hi>Elias</hi> objecteth from the <hi>Syriac</hi> and <hi>Babybolonic</hi> names of <hi>Zere, Segol,</hi> &amp;c. is of no force againſt us. <bibl>
+                     <hi>Cap.</hi> 9.</bibl>
+               </p>
+            </div>
+            <div n="25" type="part">
+               <head>XXV.</head>
+               <p>And as to what <hi>Elias</hi> ſaith, that they had no need of Points, who were ſo exerciſed and Skilled in the <hi>Hebrew</hi> Tongue, that they could read without them; it may be true of the Men of the great Synagogue, amongſt whom ſome Prophets were intermixed; but of the Jews Univerſally, and of their poſteri<g ref="char:EOLhyphen"/>ty when Prophecy ceaſed, and the Heavenly Doctrin by God's juſt judgment was decay'd, this can no wiſe be granted, as all times do teſtifie, and is confirmed by experience at this
+<pb n="22" facs="tcp:191817:16"/> day. And whereas he ſaith, that by the Tra<g ref="char:EOLhyphen"/>dition and Protection of the Prophets, they accurately kept in remembrance and could tell, where a pauſe was to be made, or the ſpeech continued, it may be granted of the Prophets immediately by God inſtructed; but that the following people even to the <hi>Tal<g ref="char:EOLhyphen"/>mudists</hi> could do the ſame, after ſo many ca<g ref="char:EOLhyphen"/>lamities and perſecutions, is altogether im<g ref="char:EOLhyphen"/>poſſible. What humane wit, what memory was able to retain ſo exactly the diſtinct pau<g ref="char:EOLhyphen"/>ſes of many thouſand Verſes, the diſtinct pro<g ref="char:EOLhyphen"/>nuntiation of ſo many thouſand Words, ſo that no error ſhould be committed in any Member, in any Voice or Vowell, untill <hi>Elias's Tiberian Maſoreths?</hi> who can be<g ref="char:EOLhyphen"/>lieve, that thoſe <hi>Tiberians,</hi> Men never fa<g ref="char:EOLhyphen"/>mous, never mentioned with honour, had a fuller meaſure and greater efficacy of the divine Spirit then the Men whoſe Counſells and deſignes were happily conducted by the direction of the Prophets, <hi>Zachary, Maela<g ref="char:EOLhyphen"/>chy,</hi> and <hi>Eſra?</hi> 
+                  <bibl>
+                     <hi>Cap.</hi> 9.</bibl>
+               </p>
+            </div>
+            <div n="26" type="part">
+               <pb n="23" facs="tcp:191817:16"/>
+               <head>XXVI.</head>
+               <p>Plainly, if the Vowell-points and diſtin<g ref="char:EOLhyphen"/>guiſhing Accents were added to the Holy Scripture by thoſe <hi>Tiberians,</hi> or ſuch like Men of the Common ſort, then that ſenſe which the Reading of the Vowell-Points and the diſtinguiſhing exhibites, muſt neceſſarily be of humane authority, and conſequently un<g ref="char:EOLhyphen"/>certain, not Divine and Propheticall, and ſo Authentick; then thoſe Points, in places doubtfull, ambiguous and difficult, may be changed by any other Learned Man, and o<g ref="char:EOLhyphen"/>thers ſubſtituted for them: There will be contention who ſhall be the more Learned, and more Skilfull in Correction: Then, e<g ref="char:EOLhyphen"/>verywhere will be great doubt, the ſame Word by reaſon of but one Point changed paſſing into another ſenſe: Then, the Text conſiſting of naked Letters will be like Wax, mutable into divers forms: Then, in ſuch debates will be no ſupream Judge, and ſo no Canon of the Sacred Scripture of the Old Teſtament, which may be the meaſure and the end of controverted interpretation. <bibl>
+                     <hi>Cap.</hi> 9.</bibl>
+               </p>
+            </div>
+            <div n="27" type="part">
+               <pb n="24" facs="tcp:191817:17"/>
+               <head>XXVII.</head>
+               <p>Nor is it enough to ſay, the Text in the Letters is incorrupt and unchanged, and that may be judge. For the Vowels, are the ſoul giving life to the diſtinct Words, and the Word written with bare Conſonants, cannot be read nor underſtood without Vowels; and eſpecially in dark and difficult places, one will adde theſe Vowels, another thoſe, as every own ſhall attempt to draw forth the meaning. Here is need of another Judge, the Word written with naked Letters cannot ſpeak for it ſelf: The Greek verſion of the <hi>lxx.</hi> dif<g ref="char:EOLhyphen"/>fers from the Hebrew Text, not only in the reading of Vowels but Letters alſo, ſo that it cannot be Judge. Where will you ſeek another? Shall the Servant give ſentence upon the Lord, the waiting Maid upon her Royal Lady? or ſhall the living and moſt clear fountain be tryed by the Taſt and Co<g ref="char:EOLhyphen"/>lour of the troubled and muddy ſtream? <bibl>
+                     <hi>Cap.</hi> 9.</bibl>
+               </p>
+            </div>
+            <div n="28" type="part">
+               <pb n="25" facs="tcp:191817:17"/>
+               <head>XXVIII.</head>
+               <p>The other Opinion of the <hi>Hebrews</hi> touch<g ref="char:EOLhyphen"/>ing the Authors of the <hi>Maſora</hi> is, that the <hi>Ma<g ref="char:EOLhyphen"/>ſora</hi> was written by the Men of the great Sy<g ref="char:EOLhyphen"/>nagogue, whom they ſtile in their Books, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. This is the great Council gathered by <hi>Ezra</hi> the Prieſt, the Preſident thereof, after the <hi>Babylonian</hi> Captivity: by whoſe help and aſſiſtance he reſtored the Church of <hi>Jeruſalem</hi> and of all the Jews, purging and reforming it from many corruptions, errors and vices, contra<g ref="char:EOLhyphen"/>cted in <hi>Babylon.</hi> For this Office, when he departed from <hi>Babylon</hi> to <hi>Jeruſalem,</hi> by the Grace of God, and the Authority of King <hi>Artaxerxes</hi> was committed to him, as appears by the Kings Letters <hi>Eſr.</hi> 7. Not long after him the King ſent away <hi>Nehemias</hi> alſo, as a moſt faithfull Colleague and zealous aſſiſtant; who being armed with the Royal Commiſſion and publick authority, promoted the refor<g ref="char:EOLhyphen"/>mation of the City and the Church with great fervour of affection, as the Book of <hi>Nehemiah</hi> ſhewes. <bibl>
+                     <hi>Cap.</hi> 10.</bibl>
+               </p>
+            </div>
+            <div n="29" type="part">
+               <pb n="26" facs="tcp:191817:18"/>
+               <head>XXIX.</head>
+               <p>
+                  <hi>Eſra</hi> and <hi>Nehemiah,</hi> aſſociated to them<g ref="char:EOLhyphen"/>ſelvs others of the prime Men of the people, and the wiſeſt, ſo that the whole Council completed the number of 120. Men; which Council is of moſt worthy memory, fre<g ref="char:EOLhyphen"/>quently in the Writings of the <hi>Hebrews.</hi> Hence in the Chronicle <hi>Juchaſin,</hi> fol. 13. It is read of this Counſell, <hi>When Constitutions are named abſolutely, they are from</hi> Eſra. <hi>And the houſe of Judgement of</hi> Eſra, <hi>is that which is called the great Synagogue or the great Coun<g ref="char:EOLhyphen"/>cil, which reſtored the Crown unto the antient eſtate.</hi> The <hi>Hebrews</hi> had three Crowns of the Law, the Prieſthood and the Kingdome. The Crown of the Law, <hi>i.</hi> the Study of Wiſ<g ref="char:EOLhyphen"/>dom, and the knowledge of the Divine Law, was the greateſt of all, according to that <hi>Prov.</hi> 8. 15. <hi>By me (i.</hi> Wiſdome) <hi>Kings Raign.</hi> This Crown <hi>Eſra</hi> which his Col<g ref="char:EOLhyphen"/>leagues reduced to the Primitive Condition, <hi>i. e.</hi> He reformed the Eccleſiaſtical Common<g ref="char:EOLhyphen"/>wealth from the filth, and pollutions of <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> and reduced it to the old integrity, and purged the Holy Scripture from the deceit<g ref="char:EOLhyphen"/>full Books of the falſe Prophets, and from all corruptions. Therefore in the <hi>Jeruſalem</hi>
+                  <pb n="27" facs="tcp:191817:18"/> 
+                  <hi>Talmud,</hi> in the Book <hi>Megilla,</hi> c. 4. <hi>in fine: When the men of the great Synagogue aroſe, they reſtored magnificence, i.</hi> The Crown of the Law, then whoſe magnificence, none is great<g ref="char:EOLhyphen"/>er. <hi>Don Iſaac Abarbinel</hi> in the preface to his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Commemorates the principal men of this Council, moſt of whom came from <hi>Babylon</hi> and <hi>Jeruſalem</hi> with <hi>Zorobabel: The Catalogue,</hi> ſaith he, <hi>of the men of the great Council are</hi> Hagaeus <hi>the Prophets,</hi> Zacharias <hi>the Prophet,</hi> Malachias <hi>the Prophet,</hi> Zorobabel <hi>the ſon of</hi> Schealtiel, Mordecai, Bilſohan; Ezra <hi>the Prieſt and Scribe,</hi> Jehoſua <hi>the Son of</hi> Johotze<g ref="char:EOLhyphen"/>dek <hi>the Prieſt,</hi> Seraja, Realja, Miſpar Bigaeus, Rachum, Bana, Nehemiah <hi>the Son of</hi> Chacilja. <hi>Theſe are the twelve prime Men,</hi> &amp;c. The laſt man (ſaith <hi>Rabbi Moſes ben M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>jomen,)</hi> in whom the Council ended, was <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Simeon <hi>the just,</hi> he who went forth to meet the great <hi>Alexander,</hi> in bis Prieſtly habit, and inclined him to ſhew Clemency toward the City; which ſtory is famous among the <hi>He<g ref="char:EOLhyphen"/>brews.</hi> It happened, according to their ac<g ref="char:EOLhyphen"/>count, in the fourth year after the building of the ſecond Temple; whence we gather, that the men of this Synod ſupervived beyond for<g ref="char:EOLhyphen"/>ty years. All this is to ſhew, that the <hi>He<g ref="char:EOLhyphen"/>brews</hi> eſteemed this Synod of very great Au<g ref="char:EOLhyphen"/>thority. <bibl>
+                     <hi>Cap.</hi> 10.</bibl>
+               </p>
+            </div>
+            <div n="30" type="part">
+               <pb n="28" facs="tcp:191817:19"/>
+               <head>XXX.</head>
+               <p>The head and Preſident of this Synod, <hi>Ez<g ref="char:EOLhyphen"/>ra</hi> was, above all the reſt, furniſhed with ſin<g ref="char:EOLhyphen"/>gular gifts of God for theſe affairs: chiefly was he expert in the Divine Law, in the in<g ref="char:EOLhyphen"/>terpretation and deſcription of the Sacred Scripture moſt exerciſed; for which he is commended <hi>Eſr.</hi> 7. 6. <hi>He was a ready Scribe in the Law of Moſes,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; A Scribe he is called, not ſo much <hi>à Scribendo,</hi> from writing, as from declaring and explaining the things contained in the Holy Scriptures. For <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>is a Book,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>an interpreter of Books, a Doctor, a Scribe.</hi> And by no Book was gotten greater praiſe, then by the Book of the Law: whence <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>a Lawyer,</hi> who taught and interpreted the Law of God. So in the New Teſtament they are ſometimes ſtiled <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Scribes,</hi> who inſtructed the people, ſometimes <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Skil<g ref="char:EOLhyphen"/>full of the Law.</hi> Yet properly was he called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>a Scribe,</hi> who did write Letters, In<g ref="char:EOLhyphen"/>ſtruments, Books, Contracts and ſuch like, as in <hi>Pſa.</hi> 45. 2. <hi>My Tongue is the Pen of a ready Scribe,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; But <hi>Eſra</hi> was excellent both-wayes, being at once a Learned expounder of the Law, and
+<pb n="29" facs="tcp:191817:19"/> a ready Writer of it: <hi>For Ezra had prepared his heart to ſeek the Law of the Lord, and to do it, and to teach in Iſrael Statutes and Judgments,</hi> Ez. 7. 10. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Hence alſo they compare him to <hi>Moſes</hi> for the excellency of his Dignity, as we may read in both <hi>Talmuds;</hi> and he was juſtly named <hi>Ezra,</hi> for <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is <hi>help;</hi> St. <hi>Jerom</hi> renders it <hi>Adjutor,</hi> a <hi>Helper.</hi>
+               </p>
+            </div>
+            <div n="31" type="part">
+               <head>XXXI.</head>
+               <p>
+                  <hi>Ezra</hi> therefore being ſollicitous to help a decayed Church, and to reform it, diſtributed Offices Eccleſiaſtical, inſtituted Sacrifices, conſecrated Veſſels appointed for Divine uſes, celebrated Solemn Feaſts, proclaimed Faſts and Repentance, cleanſed the people from the Wedlock of Strangers, and endea<g ref="char:EOLhyphen"/>voured to order and compoſe all things after the Preſcript of Divine Law; but that the Law it ſelf, and the whole Sacred Scripture might be extant amongſt the people of God in the genuine and pure Integrity; and that there might be a difference between the Wri<g ref="char:EOLhyphen"/>tings of many falſe Prophets, and the Books of the true, and whatſoever ſpot by reaſon
+<pb n="30" facs="tcp:191817:20"/> of the incommodities of their long Captivity had blemiſhed the holy Letters, might be ſtrip<g ref="char:EOLhyphen"/>ped off; there was great need of mature Ad<g ref="char:EOLhyphen"/>vice, of the provident care of Learned men, exerciſed perfectly in the reading of the Sa<g ref="char:EOLhyphen"/>cred Scripture, and of the vigorous aid of many Aſſiſtants. To this purpoſe he had with him Divine Collegues, endued with a prophetick Spirit; <hi>Haggaeus, Malachias, Ne<g ref="char:EOLhyphen"/>hemias,</hi> whoſe fervent and moſt ardent affe<g ref="char:EOLhyphen"/>ction is teſtified openly by their Holy Ser<g ref="char:EOLhyphen"/>mons; He had with him that moſt valiant Leader <hi>Zorobabel,</hi> whoſe Stock and Vertue is ennobled by the Genealogy of our Saviour Chriſt: He had with him the High Prieſt <hi>Jeſchua,</hi> and other Chief Prieſts and Levites, the companions of <hi>Zorobabel</hi> their Leader out of <hi>Babylon,</hi> and he had alſo all that were Pil<g ref="char:EOLhyphen"/>lars of Piety among all the people. Theſe were the men deſigned for the Settlement of Religion, not only for the preſent time, but for the eternal benefit of Poſterity, from whom they knew the gift of Prophecy was now departing. <bibl>
+                     <hi>Cap.</hi> 10.</bibl>
+               </p>
+            </div>
+            <div n="32" type="part">
+               <pb n="31" facs="tcp:191817:20"/>
+               <head>XXXII.</head>
+               <p>In this Synod they thought it not ſufficient to have delivered the Sacred authentick books unto the Church, but the manner alſo how to read them cleerly, and expound them, was moſt prudently preſcribed. It appeareth by the learned Hebrews expoſition of that place in <hi>Nehemiah, chap. 8. verſ. 8. (So they read in the Book in the ſight of all the people, and gave the ſenſe, and cauſed them t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> underſtand the reading)</hi> that in the publick Synagogue they read firſt the Text of the Book of the Law, in Hebrew, diſtinctly and underſtandingly, according to the pauſes, and then explained it in the Chaldee, which was now the vulgar Tongue of the people, brought from <hi>Babylon.</hi> This Reformation of the Sacred Scripture by <hi>Ezra</hi> was not unknown to <hi>Tertullian,</hi> a moſt grave Writer of the firſt Antiquity in the Chriſtian Church; for in his Book <hi>De Hab. Mul.</hi> he ſaith, <hi>After the overthrow of</hi> Jeruſa<g ref="char:EOLhyphen"/>lem <hi>by the</hi> Babylonians, <hi>it is certain that all the Instruments of the Judaic Literature were, reſtored by</hi> Ezra. <hi>Chryſoſtome</hi> alſo aſcribeth unto <hi>Ezra</hi> the ſame work, where he writeth, <hi>Attend and Learn Gods mercy to us of old; He inſpired</hi> Moſes, <hi>and he wrote the Tables of
+<pb n="32" facs="tcp:191817:21"/> Stone; He determined him forty days in the Mount, and again ſo many days, that he might give him the Law. In after times he ſent Pro<g ref="char:EOLhyphen"/>phets who ſuffered innumerable wrongs; War ruſhed in, it conſumed all ſorts of men, the Books were burnt in the Fire. But again he in<g ref="char:EOLhyphen"/>ſpired another man, that he might repair thoſe admirable Scriptures, I mean</hi> Ezra, <hi>and ena<g ref="char:EOLhyphen"/>bled him to compoſe the Law anew out of their Reliques,</hi> &amp;c. <hi>Hom. 8. in Epiſt. ad Hebr.</hi> 
+                  <bibl>Cap. 11.</bibl>
+               </p>
+            </div>
+            <div n="33" type="part">
+               <head>XXXIII.</head>
+               <p>Now and henceforth were the Founda<g ref="char:EOLhyphen"/>tions of the <hi>Maſora</hi> laid; the work was begun in the partition of the Sacred Books, in the diſtinction of the Text into greater Sections, and into Verſes, and in the dinumeration of them, as alſo of the Letters, leaſt one Prick or Tittle might afterward be changed or loſt. For firſt, having conſtituted the number of Canonical Books, and reduced them into one body of Scripture, they divided it into three principal parts, <hi>viz.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>the Law,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>the Prophets,</hi> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>the holy Writings or Hagiographa.</hi> This Diviſion was taken no<g ref="char:EOLhyphen"/>tice of by our Saviour, and declared in that ſaying of his; <hi>All things muſt be fulfilled</hi>
+                  <pb n="33" facs="tcp:191817:21"/> 
+                  <hi>which were written in the Law, and in the Pro<g ref="char:EOLhyphen"/>phets and in the Pſalmes concerning me, Luc.</hi> 24. 44. where the Pſalmes are put for all the Books in that part entitled <hi>Hagiographa,</hi> out of which alſo ſome things are cited in the new Teſtament as fulfilled. Elſewhere he named only two parts: <hi>The Law and the Prophets were until</hi> John, <hi>Luc.</hi> 16. 16. And in another place a whole part of Scripture is ſet for one Book of that part, as, <hi>It is written in the Pro<g ref="char:EOLhyphen"/>phets, Mark.</hi> 1. 2. <hi>Jo.</hi> 6. 45. That is, in that part of Scripture which contains the Prophets in that Volumne of the Prophets. For that which was cited, was not written in all the Prophets, but in one of them, the firſt in <hi>Mal.</hi> 3. 1. the other in <hi>Iſa.</hi> 54. 13. Thus, is this diviſion uſuall in the moſt antient wri<g ref="char:EOLhyphen"/>tings of the <hi>Hebrews.</hi> In the <hi>Maſora,</hi> when any word is found only thrice, and that in the three parts of Scripture, then they ſay: <hi>We meet with it three times, once in the Law, once in the Prophets, once in the</hi> Hagiographia. In the <hi>Talmudists, one binds up the Law, the Prophets and the</hi> Hagiographa <hi>into one Book.</hi> Again, <hi>They brought unto us the Law, the Pro<g ref="char:EOLhyphen"/>phets, the</hi> Hagiographa <hi>bound into one.</hi> Bara<g ref="char:EOLhyphen"/>bathra fol. 13. 2. <hi>Elias Levita</hi> in the third preface to his <hi>Maſoreth,</hi> where he ſpeaks of the men of the great Synagogue, and their
+<pb n="34" facs="tcp:191817:22"/> labour in reſtoring of the Scripture, writes thus: <hi>For all the twenty four Books were not bound up together, but they</hi> (the Men of the great Synagogue) <hi>conjoyned them, and made three parts of them, the Law; the Pro<g ref="char:EOLhyphen"/>phets, and the</hi> Hagiographa, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <bibl>
+                     <hi>Cap.</hi> 11.</bibl>
+               </p>
+            </div>
+            <div n="34" type="part">
+               <head>XXXIV.</head>
+               <p>Theſe three parts were afterward divided into others. The Law, according to the diverſity of the matter and the Hiſtory, was ſubdivided into five Books, which are en<g ref="char:EOLhyphen"/>titled by us, <hi>Geneſis, Exodus, Leviticus, Numbers, Deuternomy.</hi> The Prophets were ſubdivided into <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the former Prophets, and</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the latter Prophets.</hi> The former are four in number, which are named under the title of the Books of <hi>Joſhua, Judges, Samuel</hi> and <hi>Kings,</hi> or ſo called becauſe in theſe Books it is treated of the firſt Prophets. In theſe, <hi>Samuel</hi> was reckoned at firſt for one Book, and the <hi>Kings</hi> likewiſe for one; which afterwards were di<g ref="char:EOLhyphen"/>ſtinguiſhed into two. Hence <hi>Samuel</hi> is called a Prophet, as in that, <hi>He gave them</hi> Judges <hi>until</hi> Samuel <hi>the Prophet,</hi> Act. 13. 20. The latter Prophets are alſo four<g ref="char:punc">▪</g> 
+                  <hi>Iſaiah, Jeremiah,</hi>
+                  <pb n="35" facs="tcp:191817:22"/> 
+                  <hi>Ezekiel, Daniel, and the Twelve Leſſer.</hi> Theſe laſt were united in one Book, that they might not be in danger by their ſmalneſſe to be loſt. Hence is that to be taken, <hi>Act.</hi> 7. 42. <hi>As it is written in the Book of the Prophets,</hi> that is, of the leſſer Prophets, to wit, <hi>Amos</hi> 5. 25. and hence alſo we read in the Hebrew Do<g ref="char:EOLhyphen"/>ctors, <hi>Thoſe eight Prophets were bound in one,</hi> Barabathra fol. 13. 2. to wit, the four for<g ref="char:EOLhyphen"/>mer and ſo many latter before mentioned, as the Commentator there explains. The reſt of the Books are the <hi>Hagiographa,</hi> and they were ſtiled in the Hebrew <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Writings</hi> by a Synecdoche, in aſmuch as they were writ<g ref="char:EOLhyphen"/>ten <hi>by the Holy Spirit,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is by immediate inſtinct of the Holy Ghoſt, and not by a Prophetick ſpirit, or by Prophecy properly ſo called. So <hi>Daniel</hi> and <hi>Eſra</hi> are accounted as it were Hiſtorical, compoſing the Hiſtory of the Church by divine inſtinct; whi<g ref="char:EOLhyphen"/>ther alſo pertain the <hi>Paralipomena</hi> or Chroni<g ref="char:EOLhyphen"/>cles, whoſe Author <hi>Eſra</hi> is ſuppoſed to have been. <hi>David</hi> and <hi>Salomon</hi> have written, moſt part, things belonging unto piety, and manners, and Doctrin in adverſity and pro<g ref="char:EOLhyphen"/>ſperity; albeit they have Prophetical matters, <hi>David</hi> eminently, often times intermixed. The five ſmall Books, which they call <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> are likewiſe judged as Didactical and
+<pb n="36" facs="tcp:191817:23"/> hiſtorical. The <hi>Hagiographa</hi> therefore at firſt were accounted nine Books, <hi>Pſalmes, Proverbs, Job, Canticles, Eccleſiaſtes, Eſther, Daniel, Eſra, Chronicles:</hi> where <hi>Eſra</hi> comprehends alſo <hi>Nehemiah,</hi> and the two Books of <hi>Chronicles</hi> are taken for one. The Book of <hi>Ruth</hi> was referred to the Book of <hi>Judges,</hi> for the continuation of the Hiſto<g ref="char:EOLhyphen"/>ry; and the <hi>Lamentations</hi> to <hi>Jeremy</hi> for the ſame Authors ſake. According to this di<g ref="char:EOLhyphen"/>ſtinction, the Books of the Bible in all were computed two and twenty, agreeable to the number of the Hebrew Letters. <bibl>
+                     <hi>Cap.</hi> 11.</bibl>
+               </p>
+            </div>
+            <div n="35" type="part">
+               <head>XXXV.</head>
+               <p>After that they had defined and diſtributed the Canonica<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Books, the Men of the great Synagogue further conſidered of the confor<g ref="char:EOLhyphen"/>mity of the Text, and the verity and variety of the reading. Here firſt of all the Text was diſtinguiſhed into Verſes, Notes of diſtincti<g ref="char:EOLhyphen"/>on being added, which they called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> becauſe there was the end of every Verſe. For the Hebrews conceive, that all the Scripture-text before was but as it were one Verſe, without any notes of diſtinction; even as it is this day, all their Books, except
+<pb n="37" facs="tcp:191817:23"/> very ſeldome, and almoſt only in the great<g ref="char:EOLhyphen"/>er Sections and Parts, do not uſe diſtinctive Points, but ſignifie a new Part, Section or matter of diſcourſe, by larger Writing of the firſt Word. And that till the time of this Council or great Synagogue the Text of Scripture was without Notes of diſtinction of the Verſes, the <hi>Jews</hi> prove out of the Sacred Book of the Law, writen after the antient manner, into a great form rouled up, kept in their Synagogues in a Sacred Cheſt for publick ſolemn Readings on Sabbath dayes and other Feſtivals; which is ſtill to be ſeen without thoſe Notes of Verſes, and without the Points of Vowels and Accents, according to the form of the firſt exemplar written by <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> and given to the people of <hi>Iſrael,</hi> as themſelves affirm. But that the whole Law was written without any diſtinction of words, without any ſpace interpoſed, that the whole Text was as it were one Verſe or one Word; is a vain fiction of the <hi>Kabbaliſts.</hi> Now, if the Hebrew Text was diſtinguiſhed into Ver<g ref="char:EOLhyphen"/>ſes by the Men of the great Synagogue, why have not the <hi>lxx.</hi> Greek Interpreters, pru<g ref="char:EOLhyphen"/>dent Elders, born Jews, the chiefeſt learned Men, moſt obſervant of their Law, retained that diſtinction in their Traſlation? The Anſwer is, that the difference of Verſes, as
+<pb n="38" facs="tcp:191817:24"/> alſo of innumerous other places in that verſi<g ref="char:EOLhyphen"/>on, is not from thoſe firſt Interpreters, but from the Tranſcribers<g ref="char:punc">▪</g> who ſometimes con<g ref="char:EOLhyphen"/>joyned, ſometimes divided the ſentences, as their Pen ran, and their mind was either more or leſſe intent; which in great and long works uſually happens. Beſides, who can certainly affirm, or believe, that the preſent Greek verſion is altogether the ſame, which thoſe firſt interpreters with ſo great labour ftamed? What made ſome of the moſt pious and moſt learned Fathers in the Primitive Chriſtian Church ſo often to complain of that Tranſlation? What moved them to ſet forth ſo many new ones in the Greek? Why did ſome ſo religiouſly embrace, and ſo much commend the verity of the Hebrew Text? <bibl>
+                     <hi>Cap.</hi> 11.</bibl>
+               </p>
+            </div>
+            <div n="36" type="part">
+               <head>XXXVI.</head>
+               <p>After the diſtinction of the Verſes by the men of the Great Synagogue, they took in<g ref="char:EOLhyphen"/>to conſideration the ſingle Words, and there<g ref="char:EOLhyphen"/>in they had a double care; one reſpected the writing of them by naked Conſonants, the other the reading of them and pronunciation by the Letters and Vowels jointly. In the writing of the Words by the Letters, they
+<pb n="39" facs="tcp:191817:24"/> conſulted with the Authentick Copies of the firſt Authors, as many as were then extant in their hands, or elſe followed the fidelity of other Copies moſt approved, and moſt in number; whether the Words were Written according to the Native propriety of their Origination; what words with what quieſcent Letters were written fully, and what defe<g ref="char:EOLhyphen"/>ctively; what Letters and Words were writ<g ref="char:EOLhyphen"/>ten abundantly, and not read; or on the contrary, what were read; and not writ<g ref="char:EOLhyphen"/>ten in the Text; or what were written in this manner, and read in another; as the Church had obſerved it continually from the time of <hi>Moſes.</hi> Of all which particulars, the lear<g ref="char:EOLhyphen"/>ned and skilfull then were able to give ac<g ref="char:EOLhyphen"/>count, and there were myſtical reaſons, known to them; but among the poſterity, through the moſt grievous calamities of after-times, forgotten. Now, if this part of Critical learn<g ref="char:EOLhyphen"/>ing belongs to the <hi>Maſora,</hi> and thence by all they are ſtiled <hi>Maſoreths</hi> who were the Au<g ref="char:EOLhyphen"/>thors of it, then none can deny but the firſt <hi>Maſoreths</hi> were the Men of the great Syna<g ref="char:EOLhyphen"/>gogue? <bibl>
+                     <hi>Cap.</hi> 11.</bibl>
+               </p>
+            </div>
+            <div n="37" type="part">
+               <pb n="40" facs="tcp:191817:25"/>
+               <head>XXXVII.</head>
+               <p>A Second care of theſe <hi>Maſoreths,</hi> was a<g ref="char:EOLhyphen"/>bout the reading and pronouncing of the Words, together with the Vowels and Ac<g ref="char:EOLhyphen"/>cents: of them alſo particularly were writ<g ref="char:EOLhyphen"/>ten <hi>Maſoretic</hi> Notes. But whether the men of the great Synagogue here firſt invented the Points of Vowels and Accents, or perfe<g ref="char:EOLhyphen"/>cted them being invented by other, or being neglected or diſuſed, reſtored them, and took care that a <hi>Maſora</hi> ſhould be alſo written of them, this cannot eaſily be ſaid nor proved. Laſtly, theſe men not content with all this, numbred the Letters, Words and Verſes in every Book, that it might be known, what Letter, what Word, what Verſe was in the midſt of every one; what Word did but once occur, and therefore did eaſily admi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſome error or corruption; what words more of<g ref="char:EOLhyphen"/>ten, and how many times they were read under this or that form; and infinite other things of like nature, touching the explica<g ref="char:EOLhyphen"/>tion of the Holy Text, did they deliver; that ſo they might fence it about, as it were, and preſerve it from corruption. And from this part of their Office, whith was employed in numbring of the Words, they were alſo cal<g ref="char:EOLhyphen"/>led
+<pb n="41" facs="tcp:191817:25"/> 
+                  <hi>Sopherim,</hi> i. e. <hi>Numerators,</hi> from <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>to number;</hi> and to celebrate their Antiquity and their Excellency the <hi>Talmudiſts</hi> call them the <hi>Antients</hi> and the <hi>Firſt,</hi> uſing this of thoſe admirable men: The <hi>Elogy heart of the An<g ref="char:EOLhyphen"/>tients was like the Gate of the Porch to the Tem<g ref="char:EOLhyphen"/>ple; but the heart of the Latter, like the eye of a Needle,</hi> Lib. 119. <hi>Eribbim.</hi> Cap. 5. <bibl>
+                     <hi>Cap.</hi> 11.</bibl>
+               </p>
+            </div>
+            <div n="38" type="part">
+               <head>XXXVIII.</head>
+               <p>As afore <hi>Num.</hi> 6. two Authorities of <hi>Aben, Ezra,</hi> and <hi>Elias Levita,</hi> were alledged touch<g ref="char:EOLhyphen"/>ing the Authors of the <hi>Maſora;</hi> ſo likewiſe here ſhall we bring in the Teſtimony of ſome famous Hebrews, to confirm this which is the more current opinion: <hi>R. Gedalia</hi> in his <hi>Catena Kabalae, fol.</hi> 21. writes, <hi>Behold the men of the great Synagogue have ſet forth ma<g ref="char:EOLhyphen"/>ny new Constitutions for the good of the whole Captivity, as the diſtinction of Verſes, the di<g ref="char:EOLhyphen"/>verſity of reading and writing, the full words and the defective; the Sections cloſe and open, the Letters greater and leſs, the Accents and Vowel points; My mind gives me that all were given to</hi> Moſes <hi>from Mount</hi> Sinai, <hi>but posterity
+<pb n="42" facs="tcp:191817:26"/> was forgetful of them; or that they were given indeed to</hi> Moſes, <hi>not that they ſhould be commit<g ref="char:EOLhyphen"/>ted to writing; but theſe Princes (the men of the Great Synagogue) wrote them all down and communicated them to all Iſrael.</hi> Don <hi>Iſaac Abarbinel,</hi> in the Preface to his <hi>Nachale Ab<g ref="char:EOLhyphen"/>hoth,</hi> writes, <hi>Ezra likewiſe taught Iſrael the Points, Accents, and ends of the Verſes, where<g ref="char:EOLhyphen"/>by he directed them and freed them from all con<g ref="char:EOLhyphen"/>fuſion and error. Ephodi</hi> cap. 7. of his Gram<g ref="char:EOLhyphen"/>mer writes in this manner; <hi>That moſt Holy man, who was the Head of the Scribes,</hi> Ezra <hi>the Prieſt and Scribe, ſhook his Lap, and ſtrain<g ref="char:EOLhyphen"/>ed all his Nerves, that he might bring into order what was perverted; ſo did all the Scribes who followed him, and corrected theſe Books with all poſſible care, until they left them moſt perfect, by numbring the Sections, Verſes, Words, and Letters; the full and defective Words, the ir<g ref="char:EOLhyphen"/>regular and regular, and ſo forth (whence they are alſo ſtiled</hi> Sophorim, <hi>Numberers) and made of theſe the Books of</hi> Maſora, <bibl>
+                     <hi>Cap.</hi> 11.</bibl>
+               </p>
+            </div>
+            <div n="39" type="part">
+               <pb n="43" facs="tcp:191817:26"/>
+               <head>XXXIX.</head>
+               <p>This is the common Sentence of the He<g ref="char:EOLhyphen"/>brews, that the <hi>Maſora</hi> proceeded from the men of the Great Synagogue, and was not unknown to <hi>Elias,</hi> as in his foreſaid third Preface he acknowledgeth; <hi>Lo, it is the opinion of many, that</hi> Ezra <hi>the Scribe and his Council, namely the men of the great Synagogue, made the Maſora, the Punctation and Accents upon the whole Bibles.</hi> So it is: and one ſhall ſcarce find any Hebrew or Jew giving his voice for <hi>Elias,</hi> but on the contrary his reaſons are refuted by the moſt Learned <hi>Rabbins.</hi> Thence I ſay, from <hi>Ezra</hi> had the <hi>Maſora</hi> its beginning and riſe, and the Vowel-points either their Birth or Renovation; but I confeſs, the <hi>Ma<g ref="char:EOLhyphen"/>ſora,</hi> as a matter of infinite Study, was conti<g ref="char:EOLhyphen"/>nued by their Succeſſors many Ages, untill it grew up into a great Book, exceeding for its quantity the Bibles themſelves, as <hi>Elias</hi> wri<g ref="char:EOLhyphen"/>teth, who ſaw many Books of the <hi>Maſora.</hi> Well might ſo great a Work and Study, ſo infinite and vaſt a Labor, require both a long time and many hands, and thoſe not vulgarly learned. Now the circumſtance of time, and the holy care and moſt ardent Zeal of <hi>Ezra,</hi> and the reſt of his Colleagues, toward the Re<g ref="char:EOLhyphen"/>formation
+<pb n="44" facs="tcp:191817:27"/> of the Church, favour this work very much: He knew by his Prophetick Spi<g ref="char:EOLhyphen"/>rit, that the laſt of the Prophets in the Jewiſh Church then lived, and therefore nothing was more neceſſary, then that the Sacred Scripture ſhould be conſerved in it uncorrupted. Their prudence and care it was to prevent the cor<g ref="char:EOLhyphen"/>ruption by this Critical Labor, whereby the true and conſtant writing and reading of all the words, might remain for ever; and in<g ref="char:EOLhyphen"/>deed they have effected it, as none can deny who is throughly acquainted with the Secrets of this Study. Thus much of the Original and Authors of the <hi>Maſora.</hi> 
+                  <bibl>
+                     <hi>Cap.</hi> 11.</bibl>
+               </p>
+            </div>
+            <div n="40" type="part">
+               <head>XL.</head>
+               <p>The Matter of the <hi>Maſora,</hi> of which it conſiſteth, are the Critical or Cenſorious Annotations touching the Hebrew Text of Holy Scripture; The Texts are reckoned ac<g ref="char:EOLhyphen"/>cording to the Verſes, Words, and Letters; the Verſes are numbred firſt entire through the ſeveral Books of the Bible, and in the <hi>Pentateuch</hi> of <hi>Moſes</hi> according to the greater Sections too, which are ſhewed by three greater <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. And withall through the whole Scripture, the middle Verſe of every
+<pb n="45" facs="tcp:191817:27" rendition="simple:additions"/> Book is named; all which are ſet down after the Text, at the end of every Book; as for Example: <hi>Geneſis</hi> hath 1534 Verſes, and the middle Verſe is, <hi>And by thy Sword ſhalt thou live,</hi> Chap. 27. 40. <hi>Exodus</hi> 1209. the middle Verſe; <hi>Speak not evil of the Magi<g ref="char:EOLhyphen"/>strate,</hi> Chap. 22. 28. <hi>Leviticus</hi> 859. the middle Verſe, <hi>He that toucheth the fleſh of him that hath an Iſſue,</hi> Chap. 15. 7. <hi>Num<g ref="char:EOLhyphen"/>bers</hi> 1288. the middle Verſe, <hi>And it ſhall come to paſs that the mans rod whom I ſhall chooſe ſhall bloſſom,</hi> Chap. 17. 5. <hi>Deuterono<g ref="char:EOLhyphen"/>my</hi> 955. the middle, <hi>And thou ſhalt do aecord<g ref="char:EOLhyphen"/>ing to the Sentence,</hi> Chap. 17. 10. The Sum of the Verſes (but miſtaken in all the Books) of the whole <hi>Pentateuch,</hi> 5845. the middle Verſe of the whole Law or <hi>Pentateuch, And he put the Breaſt-Plate upon him,</hi> Levit. 8. 8. The Verſes of the greater Sections, &amp;c. This Hedge the firſt <hi>Maſorets</hi> ſet about the Holy Scripture, that the Sacred Body thereof might not be maimed by the loſs even of one Verſe. <bibl>
+                     <hi>Cap.</hi> 12.</bibl>
+               </p>
+            </div>
+            <div n="41" type="part">
+               <pb n="46" facs="tcp:191817:28"/>
+               <head>XLI.</head>
+               <p>Again, the Verſes were conſidered accord<g ref="char:EOLhyphen"/>ing to their various affections in the Words and Letters. One Verſe is noted conſiſting of two and forty words, which have in them Letters one hundred and ſixty. It is read <hi>Jer.</hi> 21. 7. Two Verſes there are in which there is four times <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Gen.</hi> 22. 7. 1 <hi>Reg.</hi> 20. 14. Three Verſes there are, which have each Eighty Letters; one is <hi>Num.</hi> 36. 8. Three Verſes, in every one is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> once, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> four times, as <hi>Num.</hi> 11. 19. Three have each <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> thrice, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> alſo thrice, as <hi>Exod.</hi> 29. 5. Three begin and end with the Divine name <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which they call <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the Me<g ref="char:EOLhyphen"/>morial of Gods eternal eſſence, as <hi>Deut.</hi> 31. 3. where the <hi>Maſora</hi> cites the other two. There are four Verſes, in every one whereof <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is five times, as <hi>Exod.</hi> 40. 18. Five Verſes, and in every one are five continued words of two Letters, as <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 1 <hi>Reg.</hi> 3. 26. where the reſt are cited. Ten Verſes, where<g ref="char:EOLhyphen"/>in are <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> as 1 <hi>Reg.</hi> 7. 20. Ten in the Law, whoſe firſt and laſt word is the ſame, as <hi>Levit.</hi> 7. 9. Fourteen, which conſiſt only of three words, as <hi>Gen.</hi> 5. 6. <hi>Exod.</hi> 28. 13. where
+<pb n="47" facs="tcp:191817:28"/> the reſt are alledged. There are twenty ſix Verſes, in every of which are extant all the letters of the Alphabet, as <hi>Ezek.</hi> 38. 13. where the reſt are quoted: among thoſe there is one Verſe, which hath not only all the Alphabet ſimple, but is enriched alſo with the five final Letters, and that is <hi>Soph.</hi> 3. 8. But let them be<g ref="char:EOLhyphen"/>ware, who have the <hi>Venice</hi> Editions leſt-they weary themſelves too much in ſeeking for the Verſes; for there are in them ſome falſe Verſes cited, which fault we have amended in our Edition. Innumerous more of this kind have the <hi>Maſoreths</hi> noted in the examination of the Verſes in the Bible. <bibl>
+                     <hi>Cap.</hi> 12.</bibl>
+               </p>
+            </div>
+            <div n="42" type="part">
+               <head>XLII.</head>
+               <p>In the Words the <hi>Maſoreths</hi> noted, Firſt the genuine writing and reading of them, where any diverſity did occur. 2ly, Where they were written fully with the quieſcent Letters, or defectively without them. Thirdly, Their ſeat and place in the beginning, middle or end of the Verſe; and what form they had either by themſelves or by reaſon of ſome ac<g ref="char:EOLhyphen"/>cent. Fourthly, Their ſtructure and con<g ref="char:EOLhyphen"/>junction with other words, or compoſition with ſervile Letters. Fifthly, Their ſignifi<g ref="char:EOLhyphen"/>cation, where was any ambiguity. Sixthly,
+<pb n="48" facs="tcp:191817:29"/> They often noted words different in vowels and accents, where any peculiar obſervation or difference ſeemed to require it. And to all theſe they added both the number, how of<g ref="char:EOLhyphen"/>ten, and the place where every one was ex<g ref="char:EOLhyphen"/>ſtant. <bibl>
+                     <hi>Cap.</hi> 13.</bibl>
+               </p>
+            </div>
+            <div n="43" type="part">
+               <head>XLIII.</head>
+               <p>The <hi>Writing and Reading</hi> is called by the <hi>Maſoreths</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> when a Word was otherwiſe Written in the Text by Letters, and noted in the Margin to be other<g ref="char:EOLhyphen"/>wiſe read by Vowels; or when a Word was Written abundantly in the Text, and omit<g ref="char:EOLhyphen"/>ted in Reading; or on the contrary was not written at all in the Text, and yet was to be read: whence aroſe many and various kinds of this head. As, ſometimes a Letter was want<g ref="char:EOLhyphen"/>ing in a Word, ſomtimes it abounded; ſom<g ref="char:EOLhyphen"/>times one Letter was changed into another, ſomtimes it was tranſpos'd. Likewiſe, in words now ſome one was wanting in the Text, now it redounded; in this place a word was divided in two, which was to be read as one, and on the other ſide, in that place two written as one, which ought to be read divided, and in ſome places alſo a Word was written in the Text, for which another Word was to be read. Hence <hi>Elias Levita</hi> ſaith, he obſerved all the Words
+<pb n="49" facs="tcp:191817:29"/> which are of diverſe writing and reading, to be in number 848. and of them, ſaith he fur<g ref="char:EOLhyphen"/>ther, 65. are in the Law, 454. in the Pro<g ref="char:EOLhyphen"/>phets, 329. in the <hi>Hagiographa.</hi> But we have obſerved, that they are many more. Here we ſhall propoſe a few; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in thirteen places is deficient at the beginning, in three in the midſt, in twenty nine at the end: So, many other Letters. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is twelve times written at the end of words abundantly, &amp;c. <bibl>
+                     <hi>Cap.</hi> 13.</bibl>
+               </p>
+            </div>
+            <div n="44" type="part">
+               <head>XLIV.</head>
+               <p>Secondly, Words are ſaid to be written fully or defectively, which are written with the Letters <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or without them; and more rarely the ſame is ſaid of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; as <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Gen.</hi> 1. 12. is read in Scripture thrice, twice fully, with <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the midſt, as in this place, and once defectively <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> without <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the midſt, which the <hi>Maſora</hi> cites out of <hi>Ruth.</hi> 2. 8. which yet at this day in the Printed Books is full, a<g ref="char:EOLhyphen"/>gainſt the <hi>Maſora.</hi> Alſo, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Gen.</hi> 2. 7. is written fully with a double <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which they noted expreſly, for in other places it is al<g ref="char:EOLhyphen"/>wayes <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. It is a Rule in <hi>Elias Levita,</hi> in his <hi>Maſoreth,</hi> Serm. 1. cap. 1. <hi>Whenſoever the full words were more then the deficient, then they numbred the deficient: but when the defici<g ref="char:EOLhyphen"/>ent</hi>
+                  <pb n="50" facs="tcp:191817:30"/> 
+                  <hi>exceeded the number of the full, then the full were numbred.</hi> 
+                  <bibl>
+                     <hi>Cap.</hi> 13.</bibl>
+               </p>
+            </div>
+            <div n="45" type="part">
+               <head>XLV.</head>
+               <p>Thirdly, The place of words in the Verſes was noted; and firſt in the beginning of the Verſe, as at <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Gen.</hi> 1. 2. it was noted to be eight times the beginning of a Verſe, and the places are quoted. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Gen.</hi> 1. 30. is noted to begin the Verſe four times, and the places alledged at the end of <hi>Deuteronomy.</hi> So they noted innumerable other, and eſpecially thoſe which do more ſeldom begin the Verſe. And very often have they noted certain Par<g ref="char:EOLhyphen"/>ticles undeclin'd, as <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and the like; which alſo ſomtimes they numbred in the ſingle Books of the Bible, that the be<g ref="char:EOLhyphen"/>ginnings of Verſes might not be changed; ſo <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is ten times the beginning of the Verſe in <hi>Deuteronomy,</hi> &amp;c. <bibl>
+                     <hi>Cap.</hi> 13.</bibl>
+               </p>
+            </div>
+            <div n="46" type="part">
+               <head>XLVI.</head>
+               <p>Fourthly, The ſtructure is noted in Verbs, when a Verb is joyned with a peculiar Noun, or with a certain Prepoſition with which it is not wont to be joyned; as the Verb <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>to ſay,</hi> with <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> for <hi>to ſay unto God,</hi> is
+<pb n="51" facs="tcp:191817:30" rendition="simple:additions"/> found nine times joyned, and the places are cited in the great <hi>Maſora</hi> in the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. So the Verb <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> with <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> for <hi>to fear God,</hi> is found ſeven times, and the places are reckoned up in the <hi>Maſora</hi> Gen. 42. 18. The Verb, &amp;c. <bibl>
+                     <hi>Cap.</hi> 13.</bibl>
+               </p>
+            </div>
+            <div n="47" type="part">
+               <head>XLVII.</head>
+               <p>Fifthly, The ſignification is noted in ambi<g ref="char:EOLhyphen"/>guous words; as <hi>Gen.</hi> 6. 11. at the Word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 'tis noted, ſix are to ſignify <hi>tears,</hi> for otherwiſe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is, <hi>Aſcend thou. Gen.</hi> 19. 8. at <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> they note, eight are in a profane or common ſignification, when otherwiſe this word ſignifies <hi>God. Gen.</hi> 30. 24. at <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the <hi>Maſora</hi> ſayes, eleven are in the ſignification of <hi>adding</hi> defective, beſide three full, which are for the diſtinction of the proper name <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Joſeph,</hi> &amp;c. So, infinite more, which are of ſingular uſe. <bibl>
+                     <hi>Cap.</hi> 13.</bibl>
+               </p>
+            </div>
+            <div n="48" type="part">
+               <head>XLVIII.</head>
+               <p>Sixthly, The Vowels and Accents are ob<g ref="char:EOLhyphen"/>ſerved by the <hi>Maſoreths.</hi> In the great <hi>Ma<g ref="char:EOLhyphen"/>ſora</hi> they name only the Vowels <hi>Kametz</hi> and <hi>Tzere;</hi> where under <hi>Kametz, Pathach</hi> alſo, and under <hi>Tzere Saegol</hi> is comprehended;
+<pb n="52" facs="tcp:191817:31"/> which the latter <hi>Rabbins,</hi> who collected the little <hi>Maſora</hi> out of the great, for diſtinction ſake have called little <hi>Kametz</hi> and little <hi>Tzere.</hi> The little <hi>Maſora</hi> ſometime expreſſeth the name of theſe and certain other Vowels, ſom<g ref="char:EOLhyphen"/>time only ſets down the figure. For exam<g ref="char:EOLhyphen"/>ple, <hi>Gen.</hi> 16. 13. at <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>It is not extant a<g ref="char:EOLhyphen"/>ny more with</hi> Catephkamets; becauſe they ſaw it was irregular, that ſuch a Vowel ſhould be put under a Letter not guttural, to which <hi>Sheva</hi> compounded properly agrees, <hi>&amp;c.</hi> 
+                  <bibl>
+                     <hi>Cap.</hi> 13.</bibl>
+               </p>
+            </div>
+            <div n="49" type="part">
+               <head>XLIX.</head>
+               <p>A Letter, though the leaſt part of a Word, yet the <hi>Maſoreths</hi> thought it not unworthy of their diligent care, that not ſo much as one Letter or Tittle of a Letter might be loſt or changed. They noted firſt the quality of Let<g ref="char:EOLhyphen"/>ters in their Figure, and then the quantity in their number. The Figure of Letters was found in ſome without the common uſe either greater or leſſe, either inverted or pointed extraordinarily. No doubt, the antient wiſe men had juſt and fit cauſes of this diverſity, but ſuch as the various diſperſions and moſt heavy calamities of their poſterity brought in<g ref="char:EOLhyphen"/>to oblivion, or for the moſt part turned into ſeveral fictions and groundleſſe myſteries. It is well, thoſe divers figures, however, are
+<pb n="53" facs="tcp:191817:31"/> preſerved as Eternal Monuments and Teſti<g ref="char:EOLhyphen"/>monies of the antient wiſedom. We will con<g ref="char:EOLhyphen"/>tent our ſelves with a taſte, being aſſured that the uſe of this writing alſo is moſt antient, noted in the <hi>Maſora</hi> long before the time of the <hi>Talmud,</hi> and not firſt invented by the <hi>Ti<g ref="char:EOLhyphen"/>berians</hi> who lived after it: for it is mentioned in the <hi>Talmud-tract, De Scribis</hi> c. 9. <bibl>
+                     <hi>Cap.</hi> 14.</bibl>
+               </p>
+            </div>
+            <div n="50" type="part">
+               <head>L.</head>
+               <p>A great <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is extant in the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Adam,</hi> 1 <hi>Chron.</hi> 1. 1. that it might be a memorial of the firſt and only man, from whom the writer there intended to deduce the original and the Hiſtory of Mankind. That it was done to begin the Book, as ſome will have it, is the leſs probable, becauſe that is obſerved very ſeldome in the beginning of other Books. A great <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>in the beginning Gen.</hi> 1. 1. to mind us to conſider the greatneſs and ſublimity of the work of creation: which is twofold, of the Heaven and of the Earth, ſignifyed alſo by the numeral value of the Letter <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. A great <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>He ſhall be ſhaven, Levit.</hi> 13. 33. ſome think it to be a memorial of three that were bound to be ſhaven; <hi>a Youth</hi> of thirteen year old, <hi>a Nazarite</hi> polluted by the preſence of a dead
+<pb n="54" facs="tcp:191817:32"/> body, <hi>a Levite.</hi> A great <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>one, Deut.</hi> 6. 4. in that illuſtrious ſentence <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Hear O Iſrael, the Lord our God is one Lord.</hi> In this ſentence the Letter <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is alſo a great one: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to ſignifie that the Eternal Lord is the only God in the four parts of the world, that is, in the whole world, both in heaven and earth, and no other God in any part of the world beſides him. For the Letter <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſtands for <hi>four.</hi> The two great Letters in this ſen<g ref="char:EOLhyphen"/>tence conjoyned make the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>a witneſſe,</hi> as if they would thereby ſay unto us, <hi>Hear Iſrael and be a witneſs to me,</hi> that I have ſeri<g ref="char:EOLhyphen"/>ouſly admoniſhed thee concerning the one true and Eternal God: according to that, <hi>Ye ſhall be my witneſſes ſaith the Lord, Iſa.</hi> 43. 10. A great <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, where 'tis ſaid, <hi>Do ye thus requite the Lord, O fooliſh people and unwiſe? Deut.</hi> 32. 6. to raiſe the greater admiration, that they ſhould make ſuch an ill requital to that Lord, Father, Re<g ref="char:EOLhyphen"/>deemer, Maker, and Governour, by ſhewing themſelves to their fivefold benefactor five ways (which the letter <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> does withall denote) wicked and ungrateful, being <hi>corrupt, perverſe, crooked, fooliſh</hi> and <hi>unwiſe;</hi> as all theſe are ex<g ref="char:EOLhyphen"/>preſſed in the Text, &amp;c. <bibl>
+                     <hi>Cap.</hi> 14.</bibl>
+               </p>
+            </div>
+            <div n="51" type="part">
+               <pb n="55" facs="tcp:191817:32"/>
+               <head>LI.</head>
+               <p>The little Letters ſignifie diminution and contempt; as a little <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the Word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Prov.</hi> 30. 15. <hi>The Horſeleach hath two daughters,</hi> called <hi>Give, Give.</hi> The Horſeleach is a Sym<g ref="char:EOLhyphen"/>bol or ſign of a covetous man: their eſtate, to whom his Daughters are married, is ſucked out and diminiſhed. If at any time he doth good to a poor man, he never does it <hi>gratis,</hi> but requireth double by his Daughters <hi>Give, Give,</hi> till the poor man be brought to extre<g ref="char:EOLhyphen"/>mity; and this diminution is intimated by the ſmalneſs of the Letter. A little <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the Word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Prov.</hi> 28. 17. <hi>A man that doth violence to the blood of any perſon;</hi> to ſhew his miſery who is guilty of ſhedding of blood, that he is even unworthy of the name of man. A little <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Gen.</hi> 2. 4. <hi>when they were created,</hi> to wit, the Heaven and the Earth; to declare that all created things ſhall decay and periſh; and as the letter conſiſts of broken parts, ſo ſhall they be diſſolved. The Hebrews affecting myſteries, ſay, a tranſpoſition of this letter is intimated, that of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> may be made <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> for <hi>Abraham, i. e.</hi> for the faithful was the world created; for they alone praiſe God for his wonderfull works of crea<g ref="char:EOLhyphen"/>tion,
+<pb n="56" facs="tcp:191817:33"/> &amp;c. But ſome, who have more throughly ſearched the letters and numbers, have given another cauſe of greater and leſ<g ref="char:EOLhyphen"/>ſer letters; namely, that every ſuch Letter is the terme or bound of a certain number of letters, either from the preceding great letter, or the beginning of the book, or ſome other place, heretofore known by a peculiar index: as, the little <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Gen.</hi> 2. is the term of the number from the beginning of the Book, to wit, that the letters hitherto are 1112. &amp;c. <bibl>
+                     <hi>Cap.</hi> 15.</bibl>
+               </p>
+            </div>
+            <div n="52" type="part">
+               <head>LII.</head>
+               <p>Of the letter <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> inverted, ſaith the <hi>Maſora, Numb.</hi> 10. 35. at the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>in going fòrward,</hi> there are <hi>nine Verſes wherein is ſuch a ſign of</hi> Nun <hi>inverted.</hi> And the firſt is this, <hi>And it came to paſs when the Ark ſet forward, that</hi> Moſes <hi>ſaid, Riſe up Lord, and let thine e<g ref="char:EOLhyphen"/>nemies be ſcattered, and let them that hate thee flee before thee.</hi> Here <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is conceiv'd to be in<g ref="char:EOLhyphen"/>verted, to intimate that all the enemies of <hi>Iſrael</hi> ſhould ſo be turned back and over<g ref="char:EOLhyphen"/>thrown. The ſecond <hi>Numb.</hi> 11. 1. <hi>And the people complained:</hi> where the inverted <hi>Nun</hi> is a token of the preverſneſſe of the people, in the midſt of ſo many ſignal deliverances and
+<pb n="57" facs="tcp:191817:33"/> great bleſſings of God, bitterly complaining and ſhewing their contumacy and ingrati<g ref="char:EOLhyphen"/>tude, &amp;c. <bibl>
+                     <hi>Cap.</hi> 16.</bibl>
+               </p>
+            </div>
+            <div n="53" type="part">
+               <head>LIII.</head>
+               <p>That the <hi>Maſoreths</hi> might have nothing untoucht, that was pertinent to the conſer<g ref="char:EOLhyphen"/>vation of the ſacred Text, and the notation of its genuine form, being thus intent upon the work, they eſpyed in the whole Text of ſacred Scripture fifteen words, wherein ſome one letter or other was noted extraordinarily with certain pricks above, not with Vowels, or the notes of Vowels, but Symbolical notes, the ſignes of ſome Arcane and ſecret ſenſe; the explication whereof being delivered and propagated Orally, was known to thoſe firſt and next following times, but among the poſterity, by reaſon of Wars and Perſecuti<g ref="char:EOLhyphen"/>ons, went out of knowledge into Oblivion. Now the <hi>Maſoreths</hi> eaſily judging, they were not ſet down in vain by the Antients, but as remembrances of ſome point of ſecret wiſ<g ref="char:EOLhyphen"/>dome, would by no m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anes wipe them out of the Text, but rather mark them, thereby to hold poſterity to the duty of meditation. The <hi>pricked words,</hi> as I ſaid, are in the whole fifteen; ten in the Law, four in the Prophets, one in the Hagiographa. Firſt is in <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="58" facs="tcp:191817:34" rendition="simple:additions"/> 
+                  <hi>Gen.</hi> 16. 5. <hi>The Lord ſhall judge between me and thee:</hi> the words of <hi>Sarah</hi> to her husband <hi>Abraham.</hi> The <hi>Maſora</hi> noteth there is a Prick above the latter <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is not written fully with both Jods in all the Law, but in this place: whence the latter was pricked, to mind us, it was not put here in vain, &amp;c. <bibl>
+                     <hi>Cap.</hi> 17.</bibl>
+               </p>
+            </div>
+            <div n="54" type="part">
+               <head>LIV.</head>
+               <p>Next, for the quantity of the Letters, or their number, that the <hi>Maſoreths</hi> compre<g ref="char:EOLhyphen"/>hended in a certain number the Letters of all the Books of Holy Scripture, is evident enough out of ſome Remains to this day ex<g ref="char:EOLhyphen"/>tant of the <hi>Maſora;</hi> for the <hi>Maſora</hi> noteth upon the Letter <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Levit.</hi> 11. 42. that it is <hi>the middle Letter</hi> of the whole <hi>Pentateuch,</hi> or <hi>Law;</hi> and the Letter <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Pſal</hi> 80. 14. is the mid<g ref="char:EOLhyphen"/>dle Letter of the Book of <hi>Pſalms.</hi> At the end of <hi>Geneſis,</hi> after the number of the Ver<g ref="char:EOLhyphen"/>ſes of that Book, it is added; and the Letters thereof are 4395. which is to be underſtood of the laſt Section of that Book, not of the Letters of the whole Book. <hi>Elias Levita Pref.</hi> 3. <hi>l. Maſ.</hi> writeth, that the Letters of the whole Law are Sixty thouſand thouſands forty five; and there he ſaith, the Letters of
+<pb n="59" facs="tcp:191817:34" rendition="simple:additions"/> the firſt Section <hi>Bereſhit,</hi> are 1915. which is falſe; we believe they are more then 5000. We doubt not but an account was given of the number of Letters, in all the Books of the Bible, though this <hi>Maſora</hi> is not brought to light. But that this part of the <hi>Maſoretic</hi> Study was referred into certain places of their Books, and ſo delivered to the notice of Po<g ref="char:EOLhyphen"/>ſterity, appears by a certain Poem, which in a curious manner exhibites the number, how often every Letter in t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Alphabet is contain<g ref="char:EOLhyphen"/>ed in the whole Scripture. <bibl>
+                     <hi>Cap.</hi> 18.</bibl>
+               </p>
+            </div>
+            <div n="55" type="part">
+               <head>LV.</head>
+               <p>The Author of thoſe Verſes is affirmed by <hi>Elias</hi> to be <hi>Raf Saadia Gaon,</hi> who was Head of the <hi>Sorian</hi> Academy in <hi>Babylon,</hi> about the year of Chriſt 927. The Verſes are very dif<g ref="char:EOLhyphen"/>ficult; but this Sum of them here followeth:</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>א</cell>
+                        <cell>42377</cell>
+                        <cell>ב</cell>
+                        <cell>38218</cell>
+                        <cell>ג</cell>
+                        <cell>29537</cell>
+                     </row>
+                     <row>
+                        <cell>ד</cell>
+                        <cell>32530</cell>
+                        <cell>ה</cell>
+                        <cell>47754</cell>
+                        <cell>ו</cell>
+                        <cell>76922</cell>
+                     </row>
+                     <row>
+                        <cell>ז</cell>
+                        <cell>22867</cell>
+                        <cell>ח</cell>
+                        <cell>23447</cell>
+                        <cell>ט</cell>
+                        <cell>11052</cell>
+                     </row>
+                     <row>
+                        <cell>י</cell>
+                        <cell>66420</cell>
+                        <cell>כ</cell>
+                        <cell>48253</cell>
+                        <cell>ל</cell>
+                        <cell>41517</cell>
+                     </row>
+                     <row>
+                        <cell>מ</cell>
+                        <cell>77778</cell>
+                        <cell>נ</cell>
+                        <cell>32977</cell>
+                        <cell>ס</cell>
+                        <cell>13580</cell>
+                     </row>
+                     <row>
+                        <cell>ע</cell>
+                        <cell>20175</cell>
+                        <cell>פ</cell>
+                        <cell>22725</cell>
+                        <cell>צ</cell>
+                        <cell>21822</cell>
+                     </row>
+                     <row>
+                        <cell>ק</cell>
+                        <cell>22972</cell>
+                        <cell>ר</cell>
+                        <cell>22147</cell>
+                        <cell>ש</cell>
+                        <cell>32148</cell>
+                     </row>
+                     <row>
+                        <cell>ת</cell>
+                        <cell>59343.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="60" facs="tcp:191817:35"/>
+               <p> And hence it is clearly ſeen, how exceed<g ref="char:EOLhyphen"/>ing great was the Induſtry of theſe men, how laborious their Study, and how much their Zeal, that they might conſerve the Integrity of Scripture inviolate, even in the leaſt tittle to all poſterity. <bibl>
+                     <hi>Cap.</hi> 18.</bibl>
+               </p>
+            </div>
+            <div n="56" type="part">
+               <head>LVI.</head>
+               <p>We have ſeen the Matter, now for the Form of the <hi>Maſora;</hi> it was at firſt conſigned in ſeparate and diſtinct Books, but afterward the Scribes adjoyned it to the Text by parts, but confuſedly and defectively. In which Form it ſtood till the publick impreſſion made about the beginning of the laſt age by the ſin<g ref="char:EOLhyphen"/>gular Study and coſt of <hi>Daniel Bombergus,</hi> and by the Aſſiſtance of <hi>R. Jacob Ben Chajim</hi> at <hi>Venice.</hi> But notwithſtanding all the diligence of the man, the difficulty of the work cau<g ref="char:EOLhyphen"/>ſed him to leave innumerous Faults, a good part whereof we have corrected in our Editi<g ref="char:EOLhyphen"/>on. <bibl>
+                     <hi>Cap.</hi> 19.</bibl>
+               </p>
+            </div>
+            <div n="57" type="part">
+               <head>LVII.</head>
+               <p>The Form and Order of the <hi>Maſora</hi> in the Bibles printed at <hi>Venice,</hi> is in this ſort. <hi>Maſora</hi> is twofold, the Great and the Little; the
+<pb n="61" facs="tcp:191817:35"/> Great <hi>Maſora</hi> which comprehends all the Critical Learning, with a full enumeration of the places of Scripture, called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is propoſed either ſeparately, without the Text of Scripture, in the end of the Bibles; or jointly with the Text in the higher and lower Margin thereof: the one is named <hi>Final,</hi> the other <hi>Textual.</hi> The little <hi>Maſora</hi> is that which is briefly and ſuccinctly written down at the ſide of the Text, in Numeral Letters, in ſhort and Symbolical words. Here is no citation of the places, but when a word oc<g ref="char:EOLhyphen"/>curs twice, which is ſignified by the Letter <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; then the other place is noted by a word or two annexed to that Letter. A greater num<g ref="char:EOLhyphen"/>ber ſometimes is expreſſed in a Symbolical Sentence, and in the Chaldee, where the ſin<g ref="char:EOLhyphen"/>gle words denote the ſeveral places of the Bible, alledged in the Great <hi>Maſora.</hi> This is the Form. <bibl>
+                     <hi>Cap.</hi> 19.</bibl>
+               </p>
+            </div>
+            <div n="58" type="part">
+               <head>LVIII.</head>
+               <p>We conclude with the end of the <hi>Maſora.</hi> This the more Sound and Learned <hi>Hebrews</hi> have excellently obſerved, that the <hi>Maſora</hi> is a ſure Safegard and Defence of the Sacred Text, to this end ſet round about it, to ſecure and keep it ſafe againſt all Errors. Here is
+<pb n="62" facs="tcp:191817:36"/> pertinent what the wiſe <hi>Coſri</hi> ſaid to his Anta<g ref="char:EOLhyphen"/>goniſt, objecting that the Study of the <hi>Maſo<g ref="char:EOLhyphen"/>reths</hi> was placed <hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> in an unlawful and unprofitable work: But</hi> ſaith he, <hi>Their Study was in ſuch an unprofitable Work, with which is joyned the conſervation of the Law, that there might never b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> occaſion of changing any thing therein.</hi> To the ſame purpoſe is that of the wiſe <hi>Aben Ezra; Certainly a great Reward is due to the Authors of the</hi> Maſoreth<g ref="char:punc">▪</g> 
+                  <hi>who are as it were the Keepers of the City-Walls; for by their endeavor perſiſteth the Law of the Lord, and the Holy Books in their Form, without any addition or detraction:</hi> And that of <hi>Elias Le<g ref="char:EOLhyphen"/>vita, After the Labour performed by the</hi> Ma<g ref="char:EOLhyphen"/>ſoreths, <hi>it is impoſsible that any change at all in any Books of Scripture hath happened hereto<g ref="char:EOLhyphen"/>fore, or can hereafter happen.</hi> That of <hi>R. Ja<g ref="char:EOLhyphen"/>cob Ben Chajim</hi> is not to be omitted, who in his Preface to thoſe great Bibles, after he had declared largely the uſe of <hi>Maſora,</hi> ſaith, <hi>Had not the men of the Great Synagogue bin, who re<g ref="char:EOLhyphen"/>stored the Crown</hi> (of the Law) <hi>to its antient ſplendor (as it is written,</hi> So they read in the Book of the Law of God diſtinctly, and gave the Senſe, and cauſed them to underſtand the reading, <hi>Nehem. 8. 8.) We had walked in the dark, and bin as blind men, and had not had one Book corrected, nor a Copy of the Law,
+<pb n="63" facs="tcp:191817:36"/> whereon we might rely.</hi> Thus the Jews. <bibl>
+                     <hi>Cap.</hi> 20.</bibl>
+               </p>
+            </div>
+            <div n="59" type="part">
+               <head>LIX.</head>
+               <p>The ſame hath been acknowledged by Chriſtians; as many as have attained to any better knowledge of this Art. <hi>Benedictus Ari<g ref="char:EOLhyphen"/>as Montanus,</hi> in his Preface diſcourſing of the various Reading in the Hebrew Books, and the way and uſe of the <hi>Maſoreths; Great,</hi> ſaith he, <hi>was the Religion, and great the care of the antient Iſraelites in the conſervation of the Read<g ref="char:EOLhyphen"/>ing of the Holy Books: and that treaſury in<g ref="char:EOLhyphen"/>truſted by God and commended to them (wherein were contained the mysteries of eternal life) was eſteemed worthy of all their diligence, to keep it ſo, that by no meanes any one word of it, or ſo much as the leaſt tittle might be impaired. Hugh Broughton</hi> an Engliſh man upon the 9. of <hi>Dan.</hi> ſaith, <hi>There is one ſort of great renown, the</hi> Maſorites, <hi>whoſe diligence preſerves the Hebrew Text ſafe and ſound for ever;</hi> and <hi>Nicholas Ful<g ref="char:EOLhyphen"/>ler</hi> in his <hi>Miſcell. Theol.</hi> l. 3. c. 13. <hi>To this end that the Hebrew truth might be kept inviolate, was excogitated by the most expert Jewiſh Ma<g ref="char:EOLhyphen"/>ſters a certain ſubtile and curious Art, which they called <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, that is, a tradition, or the most accurate way of delivering through the
+<pb n="64" facs="tcp:191817:37"/> hands of thoſe who do ſucceed, the Canon of Holy Scripture, alwayes pure and perfect. By the be<g ref="char:EOLhyphen"/>nefit whereof they exactly know, and have the number of, not the words only, but the very Letters too. So that, not the leaſt change can be made by any either unlearned, or raſh or negligent hand, but it is deprehended preſently. Whence it is fitly stiled by them <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, as the hedge or mound of the Old Teſtament, to keep off thence all cor<g ref="char:EOLhyphen"/>ruption and depravation.</hi> 
+                  <bibl>
+                     <hi>Cap.</hi> 20.</bibl>
+               </p>
+            </div>
+            <div n="60" type="part">
+               <head>LX.</head>
+               <p>And this may ſuffice for the preſent con<g ref="char:EOLhyphen"/>cerning the <hi>Author, Matter, Form, End</hi> of the <hi>Maſora.</hi> I will cloſe up theſe Collections with a ſaying of <hi>Pliny</hi> uſed by my Author, <hi>Optima quaeque malunt contemnere plerique quam diſcere. <g ref="char:V">Ʋ</g>ery many there are who had rather de<g ref="char:EOLhyphen"/>ſpiſe the moſt excellent things, then take the pains to learn them.</hi>
+               </p>
+               <pb facs="tcp:191817:37"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
